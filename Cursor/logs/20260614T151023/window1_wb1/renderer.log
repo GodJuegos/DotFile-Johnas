@@ -1,0 +1,432 @@
+2026-06-14 15:10:28.445 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:28.453 [info] [CursorExtensionIsolationService] Extension isolation gate is enabled, effective isolation is disabled (forced disabled in glass mode)
+2026-06-14 15:10:28.453 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.453 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.453 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.454 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:10:28.471 [info] [PushRequestContextService] push request context is enabled (killswitchActive=false, instantGrepEnabled=true, indexingGrepEnabled=true)
+2026-06-14 15:10:28.479 [info] [AgentTranscriptService] Disabled by feature gate {"gate":"cloud_agent_transcript_mirroring_service"}
+2026-06-14 15:10:28.544 [info] Started local extension host with pid 21889.
+2026-06-14 15:10:28.599 [info] [lifecycle]: Process participant started (id: extension-hosts, ms: 117)
+2026-06-14 15:10:28.694 [info] [WorktreeManager] Using worktrees root /home/johnas/.cursor/worktrees
+2026-06-14 15:10:28.705 [warning] No search provider registered for scheme: file, waiting
+2026-06-14 15:10:28.713 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:28.741 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-06-14 15:10:28.741 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-06-14 15:10:28.982 [error] Unable to create workbench contribution 'gtv'. Cannot register two commands with the same id: workbench.output.action.switchBetweenOutputs
+2026-06-14 15:10:29.018 [info] [McpProcessAfterRestoredContribution] latched shared-process MCP routing enabled for this session after OAuth migration
+2026-06-14 15:10:29.782 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:10:30.278 [error] [Extension Host:unknown] (node:21889) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-14 15:10:30.342 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:30.454 [info] [lifecycle]: Process participant started (id: shared-process-connection, ms: 1856)
+2026-06-14 15:10:30.558 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:30.930 [info] [PushRequestContextService] Updated git workspace caches (1 entries)
+2026-06-14 15:10:30.946 [info] [PushRequestContextService] Updated sandbox network file entries (0 entries)
+2026-06-14 15:10:30.994 [info] [lifecycle]: Process participant started (id: mcp-process-connection, ms: 539)
+2026-06-14 15:10:30.994 [info] [lifecycle]: Process participant started (id: utility-process-workers, ms: 0)
+2026-06-14 15:10:31.728 [info] [MainThreadCursorExplorerProviderService] Explorer provider registered
+2026-06-14 15:10:32.828 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:38.342 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:38.892 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:10:56.761 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:10:56.761 [warning] [GlassDiffService] Refresh reports missing git repository (reason=initialLoad, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:11:02.479 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:08.024 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:09.014 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:11:09.015 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:11:09.262 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:09.852 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:11.002 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:11.784 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:13.863 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:11:13.863 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:11:13.866 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:26.895 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:27.565 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:29.477 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:11:29.477 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:11:57.526 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:11:57.527 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:12:27.602 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:13:04.227 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:13:04.227 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:13:07.582 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:13:07.582 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:13:27.607 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:14:11.574 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:14:11.574 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:14:27.614 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:15:27.619 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:15:28.326 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:15:30.106 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:15:38.354 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:15:38.931 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:16:27.624 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:17:14.383 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:17:14.383 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:17:19.952 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:17:19.952 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:17:27.628 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:18:15.375 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:18:15.375 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:18:27.632 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:18:54.112 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:18:54.112 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:18:55.120 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:18:55.120 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:19:27.640 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:19:44.806 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:19:44.806 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:02.530 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:02.530 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:27.645 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:20:28.368 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:20:30.198 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:20:34.921 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:34.921 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:38.766 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:38.766 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:39.102 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:20:41.582 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:41.582 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:42.692 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:42.692 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:20:52.000 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:20:52.000 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:00.523 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:00.524 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:07.041 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:07.041 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:11.481 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:11.482 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:14.478 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:14.479 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:27.503 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:27.504 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:27.652 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:21:36.847 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:36.848 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:38.191 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:38.191 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:44.368 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:44.368 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:46.183 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:46.183 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:21:52.087 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:21:52.087 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:11.230 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:11.231 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:12.250 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:12.251 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:27.659 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:22:47.624 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:47.625 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:48.633 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:48.633 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:53.261 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:53.261 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:22:55.457 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:22:55.457 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:23:27.655 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:24:05.725 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:24:05.725 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:24:06.731 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:24:06.732 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:24:27.659 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:24:49.489 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:24:49.490 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:25:27.666 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:25:28.346 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:25:30.089 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:25:38.951 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:25:39.805 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:26:27.670 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:27:27.675 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:28:27.682 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:29:27.685 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:30:27.689 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:30:28.355 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:30:30.107 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:30:38.936 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:31:27.693 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:32:27.696 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:33:27.702 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:34:27.704 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:35:27.710 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:35:28.333 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:35:30.051 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:35:39.143 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:36:27.713 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:37:27.718 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:38:27.720 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:38:39.374 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:38:39.374 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:24.370 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:24.371 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:25.606 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:25.607 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:26.757 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:26.758 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:27.724 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:39:31.140 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:31.140 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:41.446 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:41.446 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:39:47.886 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:39:47.886 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:40:27.731 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:40:28.454 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:40:30.135 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:40:39.020 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:40:50.044 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:40:50.044 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:41:18.477 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:41:18.477 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:41:21.539 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:41:21.539 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:41:27.733 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:42:23.652 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:23.652 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:42:27.738 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:42:28.115 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:28.115 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:42:28.597 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:42:35.371 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:35.372 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:42:36.392 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:36.392 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:42:46.340 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:46.340 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:42:55.533 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:42:55.533 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:43:27.745 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:43:34.666 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:43:34.667 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:43:59.690 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:43:59.691 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:44:03.220 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:44:03.220 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:44:04.671 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:44:04.672 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:44:27.751 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:44:49.380 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:44:49.380 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:45:09.549 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:45:09.549 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:45:17.912 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:45:17.912 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:45:27.757 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:45:28.325 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:45:30.093 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:45:38.970 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:45:46.395 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:45:46.396 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:45:56.305 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:45:56.305 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:45:57.717 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:45:57.717 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:46:07.805 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:46:07.806 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:46:12.562 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:46:12.563 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:46:27.763 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:46:33.730 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:46:33.730 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:46:34.738 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:46:34.738 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:47:05.141 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:47:05.141 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:47:14.365 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:47:14.365 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:47:15.372 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:47:15.373 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:47:27.767 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:48:15.707 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:48:15.708 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:48:24.559 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:48:24.560 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:48:25.567 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:48:25.567 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:48:27.770 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:48:57.586 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:48:57.586 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-14 15:49:27.775 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:50:27.780 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:50:28.327 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:50:30.043 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:50:39.261 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:51:27.784 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:52:27.791 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:53:27.795 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:54:27.799 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:55:27.803 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:55:28.371 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:55:30.088 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:55:39.108 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:56:27.808 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:57:27.812 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:58:27.815 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:59:27.821 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:59:57.312 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-14 15:59:57.313 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 00:57:55.075 [error] Failed to refresh authentication, scheduling next attempt {"error":{"name":"ConnectError","rawMessage":"getaddrinfo EAI_AGAIN api2.cursor.sh","code":14,"metadata":{},"details":[],"cause":{"errno":-3001,"code":"EAI_AGAIN","syscall":"getaddrinfo","hostname":"api2.cursor.sh"}}}
+2026-06-15 00:58:07.242 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 00:58:07.839 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 00:58:18.540 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 00:59:07.247 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 01:00:07.254 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 01:01:07.258 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:16:37.566 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:16:38.451 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:16:56.394 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:17:56.399 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:17:56.849 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:17:58.704 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:18:14.727 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:18:14.728 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:18:56.403 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:19:56.411 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:20:16.160 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:20:16.161 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:20:56.415 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:21:37.489 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:21:56.420 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:22:06.898 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:22:06.899 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:22:19.202 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:22:19.203 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:22:28.930 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:22:28.930 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:22:36.771 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:22:36.771 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:22:37.780 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:22:37.780 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:22:56.426 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:22:56.864 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:22:58.725 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:23:56.429 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:24:03.500 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:24:03.500 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:24:31.484 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:24:31.484 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:24:34.446 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:24:34.446 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:24:53.374 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:24:53.374 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:24:56.432 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:25:17.028 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:25:17.028 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:25:33.847 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:25:33.847 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:25:56.124 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:25:56.124 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:25:56.448 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:26:37.552 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:26:38.444 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:26:51.308 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:26:51.309 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:26:56.453 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:27:43.516 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:27:43.516 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:27:56.458 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:27:56.975 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:27:58.769 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:28:09.891 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:28:09.891 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:28:17.029 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:28:17.029 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:28:46.538 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:28:46.538 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:28:53.998 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:28:53.999 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:28:56.460 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:29:11.494 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:29:11.494 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:29:56.467 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:29:57.251 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:29:57.251 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:30:45.525 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:30:45.525 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:30:56.470 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:31:01.517 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:31:01.517 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:31:37.569 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:31:56.474 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:32:32.485 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:32:32.485 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:32:34.581 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:32:34.581 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:32:44.823 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:32:44.824 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:32:56.480 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:32:56.715 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:32:56.715 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:32:56.884 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:32:57.355 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:33:11.228 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:33:11.228 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:33:12.367 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:33:12.367 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:33:21.801 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:33:21.802 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:33:56.483 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:34:13.061 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:34:13.061 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:34:14.074 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:34:14.074 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:34:26.908 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:34:26.908 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:34:56.487 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:35:56.492 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:36:37.675 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:36:38.552 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:36:56.493 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:36:58.985 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:36:58.985 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:37:03.945 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:37:03.946 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:37:21.095 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:37:21.095 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:37:28.655 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:37:28.655 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:37:51.715 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:37:51.716 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:37:56.497 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:37:56.886 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:37:58.659 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:38:56.502 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:39:56.506 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:40:27.937 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:40:27.938 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:40:29.890 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:40:29.891 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:40:56.510 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:41:37.631 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:41:56.512 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:42:42.383 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:42:42.384 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:42:43.391 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:42:43.392 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:42:47.544 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:42:47.544 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:42:56.518 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:42:56.879 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:43:56.524 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:44:56.528 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:45:53.554 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:45:53.554 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:45:55.160 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:45:55.160 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:45:56.529 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:46:15.007 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:46:15.007 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:46:25.953 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 10:46:25.953 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 10:46:37.679 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 10:46:38.515 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.

@@ -1,0 +1,74 @@
+2026-06-15 20:29:36.822 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:36.827 [info] [CursorExtensionIsolationService] Extension isolation gate is enabled, effective isolation is disabled (forced disabled in glass mode)
+2026-06-15 20:29:36.827 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.827 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.828 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:36.842 [info] [PushRequestContextService] push request context is enabled (killswitchActive=false, instantGrepEnabled=true, indexingGrepEnabled=true)
+2026-06-15 20:29:36.848 [info] [AgentTranscriptService] Disabled by feature gate {"gate":"cloud_agent_transcript_mirroring_service"}
+2026-06-15 20:29:37.293 [info] Started local extension host with pid 3224.
+2026-06-15 20:29:37.385 [info] [lifecycle]: Process participant started (id: extension-hosts, ms: 535)
+2026-06-15 20:29:37.443 [info] [WorktreeManager] Using worktrees root /home/johnas/.cursor/worktrees
+2026-06-15 20:29:37.514 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-06-15 20:29:37.514 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-06-15 20:29:37.514 [info] [WorktreeCleanupCron] Scheduling startup catch-up cleanup in 30000ms (last run 105977s ago; interval 21600s)
+2026-06-15 20:29:37.537 [error] Unable to create workbench contribution 'rtv'. Cannot register two commands with the same id: workbench.extensions.action.focusExtensionsView
+2026-06-15 20:29:37.538 [error] Unable to create workbench contribution 'gtv'. Cannot register two commands with the same id: workbench.output.action.switchBetweenOutputs
+2026-06-15 20:29:37.543 [error] Unable to create workbench contribution 'Pqv'. Cannot register two commands with the same id: workbench.extensions.action.openExtensionsFolder
+2026-06-15 20:29:37.554 [info] [McpProcessAfterRestoredContribution] latched shared-process MCP routing enabled for this session after OAuth migration
+2026-06-15 20:29:37.856 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:38.380 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:38.836 [info] [lifecycle]: Process participant started (id: shared-process-connection, ms: 1451)
+2026-06-15 20:29:39.542 [info] [lifecycle]: Process participant started (id: mcp-process-connection, ms: 706)
+2026-06-15 20:29:39.542 [info] [lifecycle]: Process participant started (id: utility-process-workers, ms: 0)
+2026-06-15 20:29:41.361 [warning] No search provider registered for scheme: file, waiting
+2026-06-15 20:29:41.586 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-15 20:29:42.684 [error] [Extension Host:unknown] (node:3224) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-15 20:29:42.714 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 20:29:42.714 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 20:29:43.420 [info] [PushRequestContextService] Updated git workspace caches (1 entries)
+2026-06-15 20:29:43.432 [info] [PushRequestContextService] Updated sandbox network file entries (0 entries)
+2026-06-15 20:29:44.693 [info] [MainThreadCursorExplorerProviderService] Explorer provider registered
+2026-06-15 20:29:52.383 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 20:29:52.383 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 20:30:01.551 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 20:30:01.551 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 20:30:07.515 [info] [WorktreeCleanupCron] Running startup catch-up worktree cleanup
+2026-06-15 20:30:07.517 [info] [WorktreeManager] Cleanup complete: scanned=0, removed=0, bytesFreed=0, errors=0
+2026-06-15 20:30:29.576 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 20:30:29.576 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 22:33:55.622 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 22:33:55.623 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 22:33:59.146 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 22:33:59.147 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:49:26.916 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:49:26.916 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:49:27.923 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:49:27.924 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:49:28.931 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:49:28.931 [warning] [GlassDiffService] Refresh reports missing git repository (reason=cooldownDeferred, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:49:35.195 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:49:35.195 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:49:40.651 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:49:40.651 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:50:48.921 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:50:48.921 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)
+2026-06-15 23:51:19.114 [error] Invoking deltaDecorations recursively could lead to leaking decorations.: Error: Invoking deltaDecorations recursively could lead to leaking decorations.
+    at b5.deltaDecorations (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:140:5053)
+    at C6v.clearDecorationsFast (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:58960:14369)
+    at C6v.clearSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:58960:14445)
+    at C6v.rejectAndResetAllCppSuggestions (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:58960:12995)
+    at dFr.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:58951:31655)
+    at lt._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:2962)
+    at lt._deliverQueue (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:3053)
+    at lt.fire (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:3137)
+    at dFr.value (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:302:20263)
+    at lt._deliver (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:55:2962) Invoking deltaDecorations recursively could lead to leaking decorations.
+2026-06-15 23:51:32.669 [warning] [GlassDiffService] getGitRoot returned empty for known cwd (cwd=/home/johnas/.config/hypr, returnedValue=undefined)
+2026-06-15 23:51:32.670 [warning] [GlassDiffService] Refresh reports missing git repository (reason=immediate, cwd=<empty>, previousGitRepoRoot=<none>, hasGitContextProvider=true)

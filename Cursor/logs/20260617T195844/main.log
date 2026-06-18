@@ -1,0 +1,13 @@
+2026-06-17 19:58:46.319 [info] [RendererPing] enabled (intervalMs=5000, blockThresholdMs=15000, stacks=true)
+2026-06-17 19:58:46.321 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/3.7.36/54eb1c61969649924abef653a450467116a58c4b01645c6017c1c5bba1cbd598/stable
+2026-06-17 19:58:46.321 [info] update#setState idle
+2026-06-17 19:58:51.519 [info] [LocalAgentStorage] Scanned 0 recent databases (skipped 2 old), found 0 agent headers, deduped to 0
+2026-06-17 19:59:03.134 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-06-17 19:59:14.936 [info] update#setState checking for updates
+2026-06-17 19:59:15.064 [info] update#setState available for download
+2026-06-17 19:59:20.423 [info] [WorktreeCleanupMainService] Granted cleanup lease id=1 owner=window:1 reason="startup-catchup-worktree-cleanup"
+2026-06-17 19:59:20.426 [info] [WorktreeCleanupMainService] Releasing cleanup lease id=1 owner=window:1 reason="startup-catchup-worktree-cleanup" releaseReason="released" heldForMs=3
+2026-06-17 19:59:23.069 [info] [WorktreeCleanupMainService] Granted cleanup lease id=2 owner=window:1 reason="startup-catchup-worktree-cleanup"
+2026-06-17 19:59:23.070 [info] [WorktreeCleanupMainService] Releasing cleanup lease id=2 owner=window:1 reason="startup-catchup-worktree-cleanup" releaseReason="released" heldForMs=2
+2026-06-17 20:07:57.455 [info] Extension host with pid 1862 exited with code: 0, signal: unknown.
+2026-06-17 20:07:57.864 [info] Extension host with pid 1766 exited with code: 0, signal: unknown.

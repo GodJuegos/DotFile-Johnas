@@ -1,0 +1,8 @@
+2026-06-15 20:29:43.372 [info] 	crepectlPath: /usr/share/cursor/resources/app/resources/helpers/crepectl
+2026-06-15 20:29:43.372 [info] Initializing GrepClient
+2026-06-15 20:29:43.372 [info] FileSystemWatcherService [workspace]: Creating filesystem watcher...
+2026-06-15 20:29:43.372 [info] FileSystemWatcherService [workspace]: Filesystem watcher created
+2026-06-15 20:29:43.372 [info] FileSystemWatcherService [workspace]: Registered client (total: 1)
+2026-06-15 20:29:44.736 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Creating filesystem watcher...
+2026-06-15 20:29:44.736 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Filesystem watcher created
+2026-06-15 20:29:44.736 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Registered client (total: 1)

@@ -1,0 +1,25 @@
+[2026-06-18T00:15:26.701Z] Initializing Cursor Hooks Service...
+[2026-06-18T00:15:26.701Z] Claude user config path: /home/johnas/.claude/settings.json
+[2026-06-18T00:15:26.701Z] Project config path (hypr): /home/johnas/.config/hypr/.cursor/hooks.json
+[2026-06-18T00:15:26.701Z] Claude project config path (hypr): /home/johnas/.config/hypr/.claude/settings.json
+[2026-06-18T00:15:26.701Z] Claude project local config path (hypr): /home/johnas/.config/hypr/.claude/settings.local.json
+[2026-06-18T00:15:26.701Z] User config path: /home/johnas/.cursor/hooks.json
+[2026-06-18T00:15:26.701Z] Enterprise config path: file:///etc/cursor/hooks.json
+[2026-06-18T00:15:26.701Z] Reloading hooks configuration...
+[2026-06-18T00:15:26.703Z] No Claude user settings found
+[2026-06-18T00:15:34.844Z] No enterprise hooks configuration found
+[2026-06-18T00:15:34.846Z] No user hooks configuration found
+[2026-06-18T00:15:34.848Z] ERROR: Failed to parse project hooks configuration
+[2026-06-18T00:15:34.848Z] No project hooks configuration found
+[2026-06-18T00:15:34.849Z] Reloading hooks configuration...
+[2026-06-18T00:15:34.849Z] Refreshing team hooks...
+[2026-06-18T00:15:34.849Z] Cursor Hooks Service initialized successfully
+[2026-06-18T00:15:34.850Z] Hook step requested: workspaceOpen
+[2026-06-18T00:15:34.850Z] Hook step requested: workspaceOpen
+[2026-06-18T00:15:34.851Z] No Claude user settings found
+[2026-06-18T00:15:35.362Z] No enterprise hooks configuration found
+[2026-06-18T00:15:35.365Z] No user hooks configuration found
+[2026-06-18T00:15:35.366Z] ERROR: Failed to parse project hooks configuration
+[2026-06-18T00:15:35.366Z] No project hooks configuration found
+[2026-06-18T00:45:34.849Z] Refreshing team hooks...
+[2026-06-18T01:15:34.856Z] Refreshing team hooks...

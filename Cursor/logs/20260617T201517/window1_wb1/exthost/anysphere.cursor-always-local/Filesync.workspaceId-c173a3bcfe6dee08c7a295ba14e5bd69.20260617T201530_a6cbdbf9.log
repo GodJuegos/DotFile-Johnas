@@ -1,0 +1,191 @@
+2026-06-17 20:15:34.594 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:15:34.669 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:15:34.805 [info] Fetched fsConfig in 210.07948899999974ms
+2026-06-17 20:15:34.805 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:15:34.865 [info] Fetched fsConfig in 196.09360299999935ms
+2026-06-17 20:15:34.865 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:15:35.110 [info] [registerEventListeners] Registering event listeners
+2026-06-17 20:15:35.110 [info] Starting sync of visible tabs
+2026-06-17 20:15:35.403 [info] Uploaded file hyprland.lua modelVersion=1 in 287.9779439999984ms
+2026-06-17 20:15:35.403 [info] Synced all visible tabs in 294.0859670000009ms
+2026-06-17 20:15:35.524 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:15:35.694 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:15:35.726 [info] Fetched fsConfig in 201.2355549999993ms
+2026-06-17 20:15:35.726 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:15:35.726 [info] File sync enabled status: true
+2026-06-17 20:15:35.726 [info] Starting sync of visible tabs
+2026-06-17 20:15:35.726 [info] Synced all visible tabs in 0.5081839999984368ms
+2026-06-17 20:15:35.891 [info] Fetched fsConfig in 197.1552499999998ms
+2026-06-17 20:15:35.891 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:15:35.892 [info] File sync enabled status: true
+2026-06-17 20:15:35.892 [info] Starting sync of visible tabs
+2026-06-17 20:15:35.892 [info] Synced all visible tabs in 0.24001999999927648ms
+2026-06-17 20:16:37.420 [info] Synced file hyprland.lua modelVersion=2 in 217.31359100001282ms
+2026-06-17 20:16:37.721 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:16:37.914 [info] Fetched fsConfig in 193.08766199999081ms
+2026-06-17 20:16:37.914 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:16:37.914 [info] File sync enabled status: true
+2026-06-17 20:16:37.914 [info] Starting sync of visible tabs
+2026-06-17 20:16:37.914 [info] Synced all visible tabs in 0.20735599999898113ms
+2026-06-17 20:17:18.925 [info] Synced file hyprland.lua modelVersion=3 in 396.1522980000009ms
+2026-06-17 20:17:19.675 [info] Synced file hyprland.lua modelVersion=8 in 198.47148199999356ms
+2026-06-17 20:17:20.376 [info] Synced file hyprland.lua modelVersion=9 in 198.31835899999714ms
+2026-06-17 20:17:21.255 [info] Synced file hyprland.lua modelVersion=10 in 208.9006640000007ms
+2026-06-17 20:17:21.531 [info] Synced file hyprland.lua modelVersion=11 in 201.95562300000165ms
+2026-06-17 20:17:22.048 [info] Synced file hyprland.lua modelVersion=13 in 199.35584199998993ms
+2026-06-17 20:17:23.102 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:17:23.297 [info] Fetched fsConfig in 195.12644100000034ms
+2026-06-17 20:17:23.297 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:17:23.297 [info] File sync enabled status: true
+2026-06-17 20:17:23.297 [info] Starting sync of visible tabs
+2026-06-17 20:17:23.297 [info] Synced all visible tabs in 0.1831780000065919ms
+2026-06-17 20:17:25.859 [info] Synced file hyprland.lua modelVersion=14 in 201.1496230000048ms
+2026-06-17 20:17:26.608 [info] Synced file hyprland.lua modelVersion=18 in 201.1057209999999ms
+2026-06-17 20:17:28.158 [info] Synced file hyprland.lua modelVersion=19 in 201.89001799999096ms
+2026-06-17 20:17:47.921 [info] Synced file hyprland.lua modelVersion=20 in 199.47258400000283ms
+2026-06-17 20:17:48.210 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:17:48.211 [info] Synced file hyprland.lua modelVersion=21 in 198.41786600000341ms
+2026-06-17 20:17:48.405 [info] Fetched fsConfig in 194.49126300000353ms
+2026-06-17 20:17:48.405 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:17:48.405 [info] File sync enabled status: true
+2026-06-17 20:17:48.405 [info] Starting sync of visible tabs
+2026-06-17 20:17:48.625 [info] Uploaded file hyprland.lua modelVersion=22 in 219.71885599999223ms
+2026-06-17 20:17:48.625 [info] Synced all visible tabs in 220.26353300001938ms
+2026-06-17 20:17:48.685 [info] Synced file hyprland.lua modelVersion=22 in 197.8166360000032ms
+2026-06-17 20:17:49.282 [info] Synced file hyprland.lua modelVersion=23 in 209.4651249999879ms
+2026-06-17 20:17:57.827 [info] Synced file hyprland.lua modelVersion=24 in 200.88607999999658ms
+2026-06-17 20:18:06.343 [info] Synced file hyprland.lua modelVersion=25 in 202.53240799999912ms
+2026-06-17 20:18:07.296 [info] Synced file hyprland.lua modelVersion=26 in 200.83531999998377ms
+2026-06-17 20:18:07.774 [info] Synced file hyprland.lua modelVersion=27 in 198.93580599999405ms
+2026-06-17 20:18:23.131 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 20:18:23.326 [info] Fetched fsConfig in 195.0440959999978ms
+2026-06-17 20:18:23.327 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 20:18:23.327 [info] File sync enabled status: true
+2026-06-17 20:18:23.327 [info] Starting sync of visible tabs
+2026-06-17 20:18:23.327 [info] Synced all visible tabs in 0.2631439999968279ms
+2026-06-17 21:23:52.754 [info] Uploaded file hyprland.lua modelVersion=27 in 633.2255310001783ms
+2026-06-17 21:23:52.757 [info] Uploaded file monitors.lua modelVersion=1 in 635.0660970001481ms
+2026-06-17 21:23:52.757 [info] Handled visible editors change in 668.2378699998371ms
+2026-06-17 21:24:06.919 [info] Handled visible editors change in 0.46740399999544024ms
+2026-06-17 21:24:20.719 [info] Uploaded file config/monitors.lua modelVersion=1 in 217.455941000022ms
+2026-06-17 21:24:20.719 [info] Handled visible editors change in 241.4245389997959ms
+2026-06-17 21:24:26.124 [info] Handled visible editors change in 0.36720599979162216ms
+2026-06-17 21:24:29.675 [info] Handled visible editors change in 0.2349280002526939ms
+2026-06-17 21:25:49.770 [warning] Failed to sync changes for hyprland.lua, version=28, retrying (attempt 1) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "62e117f730200e1274a4649192af6ab16c7f01f83a32bfc8303c0377"
+2026-06-17 21:25:49.994 [warning] Failed to sync changes for hyprland.lua, version=28, retrying (attempt 2) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "62e117f730200e1274a4649192af6ab16c7f01f83a32bfc8303c0377"
+2026-06-17 21:25:50.240 [warning] Failed to sync changes for hyprland.lua, version=28, retrying (attempt 3) [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "62e117f730200e1274a4649192af6ab16c7f01f83a32bfc8303c0377"
+2026-06-17 21:25:50.240 [error] Failed to sync changes for hyprland.lua, version=28, attempting full file sync [not_found] Version not found: VersionNotFound: Version not found for file with encrypted file name: "62e117f730200e1274a4649192af6ab16c7f01f83a32bfc8303c0377"
+2026-06-17 21:25:50.452 [info] Uploaded file hyprland.lua modelVersion=28 in 211.18062799982727ms
+2026-06-17 21:25:51.918 [info] Synced file config/monitors.lua modelVersion=2 in 199.59235000051558ms
+2026-06-17 21:25:52.553 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:25:52.747 [info] Fetched fsConfig in 193.49552700016648ms
+2026-06-17 21:25:52.747 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:25:52.747 [info] File sync enabled status: true
+2026-06-17 21:25:52.747 [info] Starting sync of visible tabs
+2026-06-17 21:25:52.747 [info] Synced all visible tabs in 0.2000390002503991ms
+2026-06-17 21:26:23.621 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:26:23.813 [info] Fetched fsConfig in 191.4879799997434ms
+2026-06-17 21:26:23.813 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:26:23.813 [info] File sync enabled status: true
+2026-06-17 21:26:23.813 [info] Starting sync of visible tabs
+2026-06-17 21:26:23.813 [info] Synced all visible tabs in 0.1700689997524023ms
+2026-06-17 21:27:17.729 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:27:17.921 [info] Fetched fsConfig in 192.3647400001064ms
+2026-06-17 21:27:17.921 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:27:17.922 [info] File sync enabled status: true
+2026-06-17 21:27:17.922 [info] Starting sync of visible tabs
+2026-06-17 21:27:18.154 [info] Uploaded file hyprland.lua modelVersion=36 in 231.94964300002903ms
+2026-06-17 21:27:18.154 [info] Synced all visible tabs in 232.76986999996006ms
+2026-06-17 21:27:18.183 [info] Synced file hyprland.lua modelVersion=36 in 214.6662299996242ms
+2026-06-17 21:27:19.153 [info] Synced file hyprland.lua modelVersion=41 in 200.74463699944317ms
+2026-06-17 21:27:22.065 [info] Synced file hyprland.lua modelVersion=42 in 201.79433699976653ms
+2026-06-17 21:27:23.440 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:27:23.631 [info] Fetched fsConfig in 190.89815000072122ms
+2026-06-17 21:27:23.631 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:27:23.631 [info] File sync enabled status: true
+2026-06-17 21:27:23.631 [info] Starting sync of visible tabs
+2026-06-17 21:27:23.631 [info] Synced all visible tabs in 0.1598300002515316ms
+2026-06-17 21:27:25.977 [info] Synced file hyprland.lua modelVersion=45 in 200.75568899977952ms
+2026-06-17 21:27:29.672 [info] Synced file hyprland.lua modelVersion=48 in 198.39741399977356ms
+2026-06-17 21:27:30.849 [info] Synced file hyprland.lua modelVersion=49 in 198.9621919998899ms
+2026-06-17 21:27:43.679 [info] Synced file hyprland.lua modelVersion=50 in 201.958151999861ms
+2026-06-17 21:27:44.172 [info] Synced file hyprland.lua modelVersion=51 in 202.1169889997691ms
+2026-06-17 21:27:44.579 [info] Synced file hyprland.lua modelVersion=51 in 204.28337800037116ms
+2026-06-17 21:27:48.685 [info] Synced file hyprland.lua modelVersion=52 in 208.61844499967992ms
+2026-06-17 21:27:49.690 [info] Synced file hyprland.lua modelVersion=53 in 200.69204999972135ms
+2026-06-17 21:27:50.007 [info] Synced file hyprland.lua modelVersion=53 in 200.23756300006062ms
+2026-06-17 21:28:21.491 [info] Uploaded file config/keyboard.lua modelVersion=1 in 211.58157699927688ms
+2026-06-17 21:28:21.491 [info] Handled visible editors change in 235.28353600017726ms
+2026-06-17 21:28:33.006 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:28:33.199 [info] Fetched fsConfig in 193.53864599950612ms
+2026-06-17 21:28:33.199 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:28:33.200 [info] File sync enabled status: true
+2026-06-17 21:28:33.200 [info] Starting sync of visible tabs
+2026-06-17 21:28:33.200 [info] Synced all visible tabs in 0.19084000028669834ms
+2026-06-17 21:28:35.230 [info] Synced file hyprland.lua modelVersion=54 in 203.85734800063074ms
+2026-06-17 21:28:36.592 [info] Synced file hyprland.lua modelVersion=55 in 202.50990299973637ms
+2026-06-17 21:28:39.233 [info] Synced file hyprland.lua modelVersion=56 in 202.19276500027627ms
+2026-06-17 21:28:41.393 [info] Synced file config/keyboard.lua modelVersion=2 in 202.16823900025338ms
+2026-06-17 21:28:54.481 [info] Synced file hyprland.lua modelVersion=63 in 221.04643900040537ms
+2026-06-17 21:28:56.080 [info] Synced file hyprland.lua modelVersion=64 in 201.62315899971873ms
+2026-06-17 21:29:03.633 [info] Handled visible editors change in 0.4383899997919798ms
+2026-06-17 21:29:06.009 [info] Handled visible editors change in 0.3586410004645586ms
+2026-06-17 21:29:23.473 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:29:23.670 [info] Fetched fsConfig in 196.3432510001585ms
+2026-06-17 21:29:23.670 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:29:23.670 [info] File sync enabled status: true
+2026-06-17 21:29:23.670 [info] Starting sync of visible tabs
+2026-06-17 21:29:23.670 [info] Synced all visible tabs in 0.21428999956697226ms
+2026-06-17 21:29:53.884 [info] Handled visible editors change in 0.21760000009089708ms
+2026-06-17 21:29:54.650 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:29:54.848 [info] Fetched fsConfig in 198.10137799941003ms
+2026-06-17 21:29:54.848 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:29:54.848 [info] File sync enabled status: true
+2026-06-17 21:29:54.848 [info] Starting sync of visible tabs
+2026-06-17 21:29:54.848 [info] Synced all visible tabs in 0.16472100000828505ms
+2026-06-17 21:30:23.451 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:30:23.653 [info] Fetched fsConfig in 202.87311900034547ms
+2026-06-17 21:30:23.654 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:30:23.654 [info] File sync enabled status: true
+2026-06-17 21:30:23.654 [info] Starting sync of visible tabs
+2026-06-17 21:30:23.654 [info] Synced all visible tabs in 0.2209709994494915ms
+2026-06-17 21:31:38.639 [info] Uploaded file config/nvidiaconf.lua modelVersion=1 in 591.4537230003625ms
+2026-06-17 21:31:38.639 [info] Handled visible editors change in 627.0387189993635ms
+2026-06-17 21:32:00.402 [info] Synced file hyprland.lua modelVersion=65 in 201.32889600005ms
+2026-06-17 21:32:02.700 [info] Synced file config/nvidiaconf.lua modelVersion=2 in 196.26676099933684ms
+2026-06-17 21:32:03.372 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:32:03.562 [info] Fetched fsConfig in 189.19383599981666ms
+2026-06-17 21:32:03.562 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:32:03.562 [info] File sync enabled status: true
+2026-06-17 21:32:03.562 [info] Starting sync of visible tabs
+2026-06-17 21:32:03.562 [info] Synced all visible tabs in 0.18004100024700165ms
+2026-06-17 21:32:09.117 [info] Synced file hyprland.lua modelVersion=67 in 204.13282600045204ms
+2026-06-17 21:32:10.222 [info] Synced file hyprland.lua modelVersion=68 in 195.16062899958342ms
+2026-06-17 21:32:23.457 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:32:23.649 [info] Fetched fsConfig in 191.50968100037426ms
+2026-06-17 21:32:23.649 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:32:23.649 [info] File sync enabled status: true
+2026-06-17 21:32:23.649 [info] Starting sync of visible tabs
+2026-06-17 21:32:23.649 [info] Synced all visible tabs in 0.25707099959254265ms
+2026-06-17 21:33:01.442 [info] Uploaded file config/monitors.lua modelVersion=2 in 247.85631499998271ms
+2026-06-17 21:33:01.442 [info] Handled visible editors change in 286.88593700062484ms
+2026-06-17 21:33:02.222 [info] Handled visible editors change in 0.3416729997843504ms
+2026-06-17 21:34:59.130 [info] Synced file config/nvidiaconf.lua modelVersion=4 in 196.21383600030094ms
+2026-06-17 21:34:59.228 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:34:59.425 [info] Fetched fsConfig in 197.14827599935234ms
+2026-06-17 21:34:59.425 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:34:59.426 [info] File sync enabled status: true
+2026-06-17 21:34:59.426 [info] Starting sync of visible tabs
+2026-06-17 21:34:59.655 [info] Uploaded file config/keyboard.lua modelVersion=2 in 228.3940340001136ms
+2026-06-17 21:34:59.655 [info] Synced all visible tabs in 229.51222599949688ms
+2026-06-17 21:35:06.543 [info] Synced file config/nvidiaconf.lua modelVersion=5 in 192.86111399997026ms
+2026-06-17 21:35:23.474 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-17 21:35:23.663 [info] Fetched fsConfig in 189.12892699986696ms
+2026-06-17 21:35:23.663 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-17 21:35:23.663 [info] File sync enabled status: true
+2026-06-17 21:35:23.663 [info] Starting sync of visible tabs
+2026-06-17 21:35:23.663 [info] Synced all visible tabs in 0.22083199955523014ms
+2026-06-17 21:36:03.411 [info] Handled visible editors change in 0.4164749998599291ms
+2026-06-17 21:36:03.425 [info] Handled visible editors change in 0.1331010004505515ms
+2026-06-17 21:36:03.425 [info] Handled visible editors change in 0.07132100034505129ms
+2026-06-17 21:36:03.426 [info] Handled visible editors change in 0.035981000401079655ms

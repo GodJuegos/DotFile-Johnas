@@ -1,0 +1,10 @@
+2026-06-17 19:58:53.273 [info] Getting extensions control
+2026-06-17 19:58:54.669 [info] Getting Manifest... anysphere.remote-ssh
+2026-06-17 19:58:55.506 [info] Installing extension: anysphere.remote-ssh {"donotIncludePackAndDependencies":true,"operation":3,"pinned":false,"context":{"skipPublisherTrust":true},"isApplicationScoped":true,"donotVerifySignature":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/johnas/.cursor/extensions/extensions.json","path":"/home/johnas/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"productVersion":{"version":"3.7.36","date":"2026-06-13T00:31:56.287Z","vscodeVersion":"1.105.1"}}
+2026-06-17 19:58:55.506 [info] Installing the extension without checking dependencies and pack anysphere.remote-ssh
+2026-06-17 19:58:55.509 [info] Started downloading extension: anysphere.remote-ssh 1.1.4 file:///home/johnas/.config/Cursor/CachedExtensionVSIXs/anysphere.remote-ssh-1.1.4
+2026-06-17 19:58:56.444 [info] Extracted extension to file:///home/johnas/.cursor/extensions/anysphere.remote-ssh-1.1.4: anysphere.remote-ssh
+2026-06-17 19:58:56.522 [info] Renamed to /home/johnas/.cursor/extensions/anysphere.remote-ssh-1.1.4
+2026-06-17 19:58:56.716 [info] Marked extension as removed anysphere.remote-ssh-1.1.3
+2026-06-17 19:58:56.718 [info] Extension installed successfully: anysphere.remote-ssh vscode-userdata:/home/johnas/.cursor/extensions/extensions.json
+2026-06-17 20:03:54.096 [info] Getting extensions control

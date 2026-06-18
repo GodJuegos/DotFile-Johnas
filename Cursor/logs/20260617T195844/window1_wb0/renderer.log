@@ -1,0 +1,58 @@
+2026-06-17 19:58:50.142 [info] [CursorExtensionIsolationService] Extension isolation gate is enabled, effective isolation is disabled (forced disabled in glass mode)
+2026-06-17 19:58:50.143 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.143 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.143 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.143 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.144 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-17 19:58:50.212 [info] [PushRequestContextService] push request context is enabled (killswitchActive=false, instantGrepEnabled=true, indexingGrepEnabled=true)
+2026-06-17 19:58:50.260 [info] [AgentTranscriptService] Disabled by feature gate {"gate":"cloud_agent_transcript_mirroring_service"}
+2026-06-17 19:58:50.334 [info] Started local extension host with pid 1766.
+2026-06-17 19:58:50.338 [info] [WorktreeManager] Using worktrees root /home/johnas/.cursor/worktrees
+2026-06-17 19:58:50.422 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-06-17 19:58:50.422 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-06-17 19:58:50.423 [info] [WorktreeCleanupCron] Scheduling startup catch-up cleanup in 30000ms (last run 170923s ago; interval 21600s)
+2026-06-17 19:58:50.491 [info] [McpProcessAfterRestoredContribution] latched shared-process MCP routing enabled for this session after OAuth migration
+2026-06-17 19:58:51.777 [info] [lifecycle]: Process participant started (id: extension-hosts, ms: 1509)
+2026-06-17 19:58:52.556 [error] [DiffTabContent] snapshot error (kind=gitProviderUnavailable, scope=unstaged, agentSource=draft, repo=<no repo>, gitEnabled=true, gitMissing=unset, hasGitContextProvider=false): Git provider is not available
+2026-06-17 19:58:53.117 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-06-17 19:58:53.117 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-06-17 19:58:53.118 [info] [Debug] Registered command palette action: debug.setApplicationProperty
+2026-06-17 19:58:53.118 [info] [Debug] Registered command palette action: debug.logComposer
+2026-06-17 19:58:53.118 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-06-17 19:58:53.118 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-06-17 19:58:53.122 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-06-17 19:58:53.134 [info] [GC Trace Polling] Disabled by config
+2026-06-17 19:58:53.294 [info] [lifecycle]: Process participant started (id: shared-process-connection, ms: 1518)
+2026-06-17 19:58:54.662 [info] Auto updating outdated extensions. anysphere.remote-ssh
+2026-06-17 19:58:54.666 [info] Updating 'anysphere.remote-ssh' for Glass from 1.1.3 to 1.1.4
+2026-06-17 19:58:54.849 [info] [lifecycle]: Process participant started (id: mcp-process-connection, ms: 1554)
+2026-06-17 19:58:54.849 [info] [lifecycle]: Process participant started (id: terminal-pty-sessions, ms: 0)
+2026-06-17 19:58:54.849 [info] [lifecycle]: Process participant started (id: utility-process-workers, ms: 1)
+2026-06-17 19:58:55.501 [info] [perf] Render performance baseline is 19ms
+2026-06-17 19:58:55.942 [warning] [WorktreeManager] Initialization timed out, returning partial worktree list
+2026-06-17 19:58:56.732 [info] Updated 'anysphere.remote-ssh' for Glass to 1.1.4
+2026-06-17 19:58:57.260 [warning] [WorktreeManager] Initialization timed out, returning partial worktree list
+2026-06-17 19:58:58.077 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-17 19:58:59.092 [error] [Extension Host:unknown] (node:1766) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-17 19:58:59.126 [warning] [DiffTabContent] snapshot error (kind=notGitRepository, scope=unstaged, agentSource=draft, repo=<no repo>, gitEnabled=true, gitMissing=unset, hasGitContextProvider=true): Workspace is not a git repository
+2026-06-17 19:58:59.836 [info] [PushRequestContextService] Updated git workspace caches (0 entries)
+2026-06-17 19:58:59.837 [info] [PushRequestContextService] Updated sandbox network file entries (0 entries)
+2026-06-17 19:59:00.972 [info] [MainThreadCursorExplorerProviderService] Explorer provider registered
+2026-06-17 19:59:00.973 [info] [MainThreadCursorExplorerProviderService] findRepositories request {"maxDepth":4}
+2026-06-17 19:59:01.104 [info] [MainThreadCursorExplorerProviderService] findRepositories response {"count":0}
+2026-06-17 19:59:01.913 [info] [CursorPluginsStartup] Claude marketplace import (boot): discovered=0, registered=0, failed=0
+2026-06-17 19:59:03.139 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2026-06-17 19:59:15.067 [info] [Extensions]: Checking for updates. Reason: Product update
+2026-06-17 19:59:20.423 [info] [WorktreeCleanupCron] Running startup catch-up worktree cleanup
+2026-06-17 19:59:20.426 [info] [WorktreeManager] Cleanup complete: scanned=0, removed=0, bytesFreed=0, errors=0
+2026-06-17 20:07:03.264 [warning] [DiffTabContent] snapshot error (kind=notGitRepository, scope=unstaged, agentSource=draft, repo=<no repo>, gitEnabled=true, gitMissing=unset, hasGitContextProvider=true): Workspace is not a git repository
+2026-06-17 20:07:57.426 [info] [lifecycle]: Process participant stopped (id: utility-process-workers, ms: 0, reason: 1)
+2026-06-17 20:07:57.790 [info] [lifecycle]: Process participant stopped (id: terminal-pty-sessions, ms: 364, reason: 1)
+2026-06-17 20:07:57.791 [info] [lifecycle]: Process participant stopped (id: mcp-process-connection, ms: 1, reason: 1)
+2026-06-17 20:07:57.791 [info] [lifecycle]: Process participant stopped (id: shared-process-connection, ms: 0, reason: 1)
+2026-06-17 20:07:57.797 [info] [lifecycle]: Process participant stopped (id: extension-hosts, ms: 6, reason: 1)

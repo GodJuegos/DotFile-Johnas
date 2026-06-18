@@ -1,0 +1,52 @@
+2026-06-15 20:29:34.609 [info] [CursorExtensionIsolationService] Extension isolation gate is enabled, effective isolation is disabled (forced disabled in glass mode)
+2026-06-15 20:29:34.610 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.610 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.611 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.612 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-15 20:29:34.651 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:34.680 [info] [PushRequestContextService] push request context is enabled (killswitchActive=false, instantGrepEnabled=true, indexingGrepEnabled=true)
+2026-06-15 20:29:34.725 [info] [AgentTranscriptService] Disabled by feature gate {"gate":"cloud_agent_transcript_mirroring_service"}
+2026-06-15 20:29:34.794 [info] Started local extension host with pid 3127.
+2026-06-15 20:29:34.808 [info] [WorktreeManager] Using worktrees root /home/johnas/.cursor/worktrees
+2026-06-15 20:29:34.880 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-06-15 20:29:34.880 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-06-15 20:29:34.880 [info] [WorktreeCleanupCron] Scheduling startup catch-up cleanup in 30000ms (last run 105974s ago; interval 21600s)
+2026-06-15 20:29:34.964 [info] [McpProcessAfterRestoredContribution] latched shared-process MCP routing enabled for this session after OAuth migration
+2026-06-15 20:29:35.027 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:36.145 [info] [lifecycle]: Process participant started (id: extension-hosts, ms: 1414)
+2026-06-15 20:29:37.092 [error] [DiffTabContent] snapshot error (kind=gitProviderUnavailable, scope=unstaged, agentSource=draft, repo=<no repo>, gitEnabled=true, gitMissing=unset, hasGitContextProvider=false): Git provider is not available
+2026-06-15 20:29:37.264 [info] [lifecycle]: Process participant started (id: shared-process-connection, ms: 1119)
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.setApplicationProperty
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.logComposer
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-06-15 20:29:37.525 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-06-15 20:29:37.556 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-06-15 20:29:37.569 [info] [GC Trace Polling] Disabled by config
+2026-06-15 20:29:38.886 [info] [lifecycle]: Process participant started (id: mcp-process-connection, ms: 1622)
+2026-06-15 20:29:38.886 [info] [lifecycle]: Process participant started (id: terminal-pty-sessions, ms: 0)
+2026-06-15 20:29:38.886 [info] [lifecycle]: Process participant started (id: utility-process-workers, ms: 0)
+2026-06-15 20:29:39.871 [info] [perf] Render performance baseline is 19ms
+2026-06-15 20:29:40.411 [warning] [WorktreeManager] Initialization timed out, returning partial worktree list
+2026-06-15 20:29:41.586 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-15 20:29:41.894 [warning] [WorktreeManager] Initialization timed out, returning partial worktree list
+2026-06-15 20:29:42.678 [error] [Extension Host:unknown] (node:3127) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-15 20:29:42.718 [warning] [DiffTabContent] snapshot error (kind=notGitRepository, scope=unstaged, agentSource=draft, repo=<no repo>, gitEnabled=true, gitMissing=unset, hasGitContextProvider=true): Workspace is not a git repository
+2026-06-15 20:29:43.398 [info] [PushRequestContextService] Updated git workspace caches (0 entries)
+2026-06-15 20:29:43.403 [info] [PushRequestContextService] Updated sandbox network file entries (0 entries)
+2026-06-15 20:29:44.760 [info] [MainThreadCursorExplorerProviderService] Explorer provider registered
+2026-06-15 20:29:44.761 [info] [MainThreadCursorExplorerProviderService] findRepositories request {"maxDepth":4}
+2026-06-15 20:29:44.873 [info] [MainThreadCursorExplorerProviderService] findRepositories response {"count":0}
+2026-06-15 20:29:45.781 [info] [CursorPluginsStartup] Claude marketplace import (boot): discovered=0, registered=0, failed=0
+2026-06-15 20:29:46.483 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-15 20:29:47.575 [info] [Cursor Proclist Polling] Started polling (every 5 min)
+2026-06-15 20:30:04.880 [info] [WorktreeCleanupCron] Running startup catch-up worktree cleanup
+2026-06-15 20:30:04.883 [info] [WorktreeManager] Cleanup complete: scanned=0, removed=0, bytesFreed=0, errors=0
+2026-06-15 22:31:52.531 [error] Error fetching user privacy mode: [unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh

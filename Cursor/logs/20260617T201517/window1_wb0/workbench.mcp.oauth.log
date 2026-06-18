@@ -1,0 +1,4 @@
+2026-06-17 20:15:22.977 [info] [MCPService] State transition: cursor-app-control none → connected
+2026-06-17 20:15:33.489 [info] [MCPService] State transition: cursor-ide-browser none → connected
+2026-06-17 20:15:33.490 [info] [MCPService] State transition: cursor-app-control none → connected
+2026-06-17 20:15:33.490 [info] [MCPService] State transition: cursor-ide-browser none → connected

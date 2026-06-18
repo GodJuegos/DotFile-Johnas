@@ -1,0 +1,16 @@
+2026-06-14 15:02:49.310 [error] Error getting repo info: Failed to execute git
+2026-06-14 15:02:49.310 [error] Error: Failed to execute git
+	at tsn.<anonymous> (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:6981407)
+	at Generator.next (<anonymous>)
+	at a (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:6978942)
+2026-06-14 15:02:49.461 [error] Error getting repo info: Failed to execute git
+2026-06-14 15:02:49.462 [warning] Failed to get symbolic ref: Failed to execute git
+2026-06-14 15:02:49.467 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/johnas/.config/hypr/.git/HEAD')
+2026-06-14 15:02:49.486 [warning] Failed to get branches from remote: Failed to execute git
+2026-06-14 15:02:49.601 [warning] Failed to get default branch from git config: Failed to execute git
+2026-06-14 15:02:51.285 [warning] [FastIndexer] getInitialValues: timeout waiting for auth {"hasCreds":true,"hasToken":false,"pollCount":11,"elapsedMs":2005}
+2026-06-14 15:02:51.286 [error] accessToken is undefined. User is not logged in. We shouldn't do any indexing.
+2026-06-14 15:09:39.555 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-06-14 15:09:39.555 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-06-14 15:09:39.557 [info] Making keys for a new index
+2026-06-14 15:09:39.578 [info] Got placeholder key indicating no server response yet, retrying...

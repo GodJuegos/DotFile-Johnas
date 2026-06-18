@@ -1,0 +1,137 @@
+2026-06-14 15:02:47.935 [info] Extension host with pid 18664 started
+2026-06-14 15:02:47.935 [info] Skipping acquiring lock for /home/johnas/.config/Cursor/User/workspaceStorage/c173a3bcfe6dee08c7a295ba14e5bd69.
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/johnas
+2026-06-14 15:02:47.935 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 7.0.12-arch1-1
+2026-06-14 15:02:47.935 [info] [ExtHostShellExec] Default shell changed: /usr/bin/bash
+2026-06-14 15:02:47.955 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-14 15:02:47.987 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-14 15:02:47.995 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-14 15:02:48.032 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-06-14 15:02:48.076 [info] Extension activated success: vscode.emmet — 30ms (code loading: 20ms, activate call: 10ms, activate resolved: 0ms)
+2026-06-14 15:02:48.077 [info] Extension activated success: vscode.configuration-editing — 7ms (code loading: 7ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:48.084 [info] Extension activated success: vscode.typescript-language-features — 39ms (code loading: 33ms, activate call: 2ms, activate resolved: 4ms)
+2026-06-14 15:02:48.273 [info] Extension activated success: vscode.json-language-features — 232ms (code loading: 36ms, activate call: 0ms, activate resolved: 196ms)
+2026-06-14 15:02:48.276 [info] ExtensionService#_doActivateExtension anysphere.cursor-polyfills-remote, startup: true, activationEvent: '*'
+2026-06-14 15:02:48.303 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-06-14 15:02:48.305 [info] Extension activated success: anysphere.cursor-polyfills-remote — 27ms (code loading: 27ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:48.305 [info] Extension activated success: vscode.git-base — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:48.306 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-06-14 15:02:48.335 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-14 15:02:48.344 [info] Extension activated success: vscode.github — 8ms (code loading: 7ms, activate call: 1ms, activate resolved: 0ms)
+2026-06-14 15:02:48.367 [info] Extension activated success: vscode.git — 54ms (code loading: 29ms, activate call: 1ms, activate resolved: 24ms)
+2026-06-14 15:02:48.368 [info] Eager extensions activated
+2026-06-14 15:02:48.387 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.460 [info] ExtensionService#_doActivateExtension anysphere.cursor-commits, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.579 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.651 [info] ExtensionService#_doActivateExtension anysphere.cursor-explorer, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.654 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.863 [info] Extension host with pid 18708 started
+2026-06-14 15:02:48.863 [info] Skipping acquiring lock for /home/johnas/.config/Cursor/User/workspaceStorage/c173a3bcfe6dee08c7a295ba14e5bd69.
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/johnas
+2026-06-14 15:02:48.863 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 7.0.12-arch1-1
+2026-06-14 15:02:48.863 [info] [ExtHostShellExec] Default shell changed: /usr/bin/bash
+2026-06-14 15:02:48.871 [info] Eager extensions activated
+2026-06-14 15:02:48.882 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.887 [info] Extension host with pid 18709 started
+2026-06-14 15:02:48.887 [info] Skipping acquiring lock for /home/johnas/.config/Cursor/User/workspaceStorage/c173a3bcfe6dee08c7a295ba14e5bd69.
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/johnas
+2026-06-14 15:02:48.887 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 7.0.12-arch1-1
+2026-06-14 15:02:48.887 [info] [ExtHostShellExec] Default shell changed: /usr/bin/bash
+2026-06-14 15:02:48.897 [info] Eager extensions activated
+2026-06-14 15:02:48.899 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.917 [info] ExtensionService#_doActivateExtension anysphere.cursor-resolver-helper, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:48.922 [info] Extension host with pid 18710 started
+2026-06-14 15:02:48.923 [info] Skipping acquiring lock for /home/johnas/.config/Cursor/User/workspaceStorage/c173a3bcfe6dee08c7a295ba14e5bd69.
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] Detecting sandbox support...
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] Platform: linux, Shell type: unknown
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] dirname: /usr/share/cursor/resources/app/out/vs/workbench/api/node
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] Sandbox helper path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] process.resourcesPath: /usr/lib/electron39/resources
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] process.execPath: /usr/lib/electron39/electron
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] ripgrep path for sandboxing: /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Starting sandbox support check...
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [checkBinaryAvailable] Resolved binary path: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [checkBinaryAvailable] Binary path exists: true
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Running preflight with binary: /usr/share/cursor/resources/app/resources/helpers/cursorsandbox
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [isSandboxHelperSupported] CWD: /home/johnas
+2026-06-14 15:02:48.923 [info] [shell-exec:sandbox] [isSandboxHelperSupported] Preflight succeeded, sandbox supported!
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] Sandbox support detected: true, platform: linux, kernelVersion: 7.0.12-arch1-1
+2026-06-14 15:02:48.923 [info] [ExtHostShellExec] Default shell changed: /usr/bin/bash
+2026-06-14 15:02:48.931 [info] ExtensionService#_doActivateExtension anysphere.cursor-agent-exec, startup: true, activationEvent: '*'
+2026-06-14 15:02:49.060 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:49.119 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:49.121 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:49.132 [info] ExtensionService#_doActivateExtension anysphere.cursor-socket, startup: false, activationEvent: 'onStartupFinished'
+2026-06-14 15:02:49.143 [info] Extension activated success: anysphere.cursor-always-local — 237ms (code loading: 233ms, activate call: 4ms, activate resolved: 0ms)
+2026-06-14 15:02:49.144 [info] Extension activated success: anysphere.cursor-socket — 3ms (code loading: 2ms, activate call: 1ms, activate resolved: 0ms)
+2026-06-14 15:02:49.146 [info] Extension activated success: cursor.cursor-browser-automation — 86ms (code loading: 72ms, activate call: 1ms, activate resolved: 13ms)
+2026-06-14 15:02:49.171 [info] Extension activated success: anysphere.cursor-commits — 122ms (code loading: 119ms, activate call: 1ms, activate resolved: 2ms)
+2026-06-14 15:02:49.172 [info] Extension activated success: anysphere.cursor-deeplink — 73ms (code loading: 72ms, activate call: 1ms, activate resolved: 0ms)
+2026-06-14 15:02:49.172 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider registered in ext host
+2026-06-14 15:02:49.172 [info] Extension activated success: anysphere.cursor-explorer — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:49.186 [info] ExtHostSearch [cursorIgnore] internal fileSearch start reason=cursorIgnoreCheck roots=1 include=**/.cursorignore maxResults=0 numThreads=(default) folderQueries=[{"cwd":"/home/johnas/.config/hypr","disregardIgnoreFiles":false,"disregardParentIgnoreFiles":true,"disregardGlobalIgnoreFiles":true,"ignoreSymlinks":false,"rgNoIgnore":false,"rgNoIgnoreParent":true,"rgNoIgnoreGlobal":true,"rgFollow":true}]
+2026-06-14 15:02:49.191 [info] ExtHostSearch /usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg --files --hidden --case-sensitive --no-require-git -g '**/.cursorignore' -g '!**/.git' -g '!**/.svn' -g '!**/.hg' -g '!**/.DS_Store' -g '!**/Thumbs.db' -g '!**/node_modules' -g '!**/bower_components' -g '!**/*.code-search' --no-ignore-parent --follow --no-config --no-ignore-global
+ - cwd: /home/johnas/.config/hypr
+ - Sibling clauses: {}
+2026-06-14 15:02:49.192 [info] Extension activated success: anysphere.cursor-resolver-helper — 143ms (code loading: 143ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:49.193 [info] Extension activated success: anysphere.cursor-shadow-workspace — 59ms (code loading: 59ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:49.194 [info] Extension activated success: vscode.debug-auto-launch — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:49.196 [info] Extension activated success: vscode.merge-conflict — 4ms (code loading: 3ms, activate call: 1ms, activate resolved: 0ms)
+2026-06-14 15:02:49.200 [info] [ExtHostCursorExplorerProviderService] Main thread provider registration acknowledged
+2026-06-14 15:02:49.202 [info] Extension activated success: anysphere.cursor-mcp — 293ms (code loading: 263ms, activate call: 1ms, activate resolved: 29ms)
+2026-06-14 15:02:49.285 [info] Extension activated success: anysphere.cursor-retrieval — 399ms (code loading: 391ms, activate call: 3ms, activate resolved: 5ms)
+2026-06-14 15:02:49.316 [info] ExtHostSearch Search finished. Stats: {"cmdTime":129,"fileWalkTime":129,"directoriesWalked":0,"filesWalked":0,"cmdResultCount":0}
+2026-06-14 15:02:49.316 [info] ExtHostSearch [cursorIgnore] internal fileSearch done in 130ms limitHit=false failed=false resultCount=0 cmdTime=129 fileWalkTime=129 providerTime=(unknown)
+2026-06-14 15:02:49.501 [info] ExtensionService#_doActivateExtension anysphere.cursor-checkout, startup: true, activationEvent: '*'
+2026-06-14 15:02:49.516 [info] Extension activated success: anysphere.cursor-checkout — 2ms (code loading: 2ms, activate call: 0ms, activate resolved: 0ms)
+2026-06-14 15:02:49.539 [info] Extension activated success: anysphere.cursor-agent-exec — 602ms (code loading: 568ms, activate call: 10ms, activate resolved: 24ms)
+2026-06-14 15:02:49.539 [info] Eager extensions activated
+2026-06-14 15:02:50.809 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:cursor-github'
+2026-06-14 15:02:50.814 [info] Extension activated success: vscode.github-authentication — 5ms (code loading: 4ms, activate call: 1ms, activate resolved: 0ms)
+2026-06-14 15:09:41.232 [info] Extension host terminating: renderer closed the MessagePort
+2026-06-14 15:09:41.235 [info] Extension host with pid 18710 exiting with code 0
+2026-06-14 15:09:41.240 [info] Extension host terminating: renderer closed the MessagePort
+2026-06-14 15:09:41.241 [info] Extension host terminating: renderer closed the MessagePort
+2026-06-14 15:09:41.243 [info] Extension host terminating: renderer closed the MessagePort
+2026-06-14 15:09:41.243 [info] Extension host with pid 18708 exiting with code 0
+2026-06-14 15:09:41.244 [info] Extension host with pid 18709 exiting with code 0
+2026-06-14 15:09:41.244 [info] [ExtHostCursorExplorerProviderService] ExplorerProvider unregistered in ext host
+2026-06-14 15:09:41.253 [error] [ExtHostCursorExplorerProviderService] Main thread provider unregistration failed Canceled
+2026-06-14 15:09:41.253 [warning] [ExtHostCursor] Failed to check unresponsive extension host diagnostics gate Canceled
+2026-06-14 15:09:41.256 [info] Extension host with pid 18664 exiting with code 0

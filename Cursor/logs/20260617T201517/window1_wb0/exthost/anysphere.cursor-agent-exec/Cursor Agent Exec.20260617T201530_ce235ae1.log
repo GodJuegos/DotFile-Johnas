@@ -1,0 +1,31 @@
+2026-06-17 20:15:32.372 [info] rg_diagnostics.startup {"rgPath":"/usr/share/cursor/resources/app/node_modules/@vscode/ripgrep/bin/rg","rgPathExists":true,"rgParentDirExists":true,"platform":"linux","arch":"x64","nodeVersion":"v22.22.1","extensionPath":"/usr/share/cursor/resources/app/extensions/cursor-agent-exec","execPath":"/usr/lib/electron39/electron","uiKind":"desktop","rgFileSize":66,"rgFileMode":"100755","rgIsFile":true,"parentDirContents":["rg"],"grandparentDirExists":true,"grandparentDirContents":["LICENSE","bin","build","jsconfig.json","lib","node_modules","package.json"]}
+2026-06-17 20:15:32.372 [info] cursor_agent_exec.startup.workspace_paths {"workspacePathCount":0,"workspacePaths":[]}
+2026-06-17 20:15:32.387 [info] cursor_agent_exec.startup.activation_latency {"durationMs":86}
+2026-06-17 20:15:35.017 [info] managed_skills.removed {"skill_id":"clone","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.020 [info] managed_skills.removed {"skill_id":"cursor","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.020 [info] managed_skills.removed {"skill_id":"cursor-blame","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.021 [info] managed_skills.removed {"skill_id":"cursor-sdk","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.021 [info] managed_skills.removed {"skill_id":"goal","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.022 [info] managed_skills.removed {"skill_id":"onboard","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.023 [info] managed_skills.removed {"skill_id":"cursor-review-links","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.024 [info] managed_skills.removed {"skill_id":"social-sharing-copy","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:15:35.055 [warning] Canvas SDK mirror failed {"error":"Error: EEXIST: file already exists, mkdir '/home/johnas/.cursor/skills-cursor/canvas/sdk'"}
+2026-06-17 20:15:35.084 [info] AgentSkillsCursorRulesService load completed {"durationMs":2717,"ruleCount":17,"skillCount":17}
+2026-06-17 20:15:35.099 [info] CursorPluginsAgentSkillsService load completed {"durationMs":2731,"ruleCount":0,"skillCount":0}
+2026-06-17 20:15:35.100 [info] cursorRulesService.getAllCursorRules
+2026-06-17 20:45:35.665 [info] managed_skills.removed {"skill_id":"clone","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.667 [info] managed_skills.removed {"skill_id":"cursor","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.667 [info] managed_skills.removed {"skill_id":"cursor-blame","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.667 [info] managed_skills.removed {"skill_id":"cursor-sdk","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.667 [info] managed_skills.removed {"skill_id":"goal","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.668 [info] managed_skills.removed {"skill_id":"onboard","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.670 [info] managed_skills.removed {"skill_id":"cursor-review-links","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 20:45:35.671 [info] managed_skills.removed {"skill_id":"social-sharing-copy","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.288 [info] managed_skills.removed {"skill_id":"clone","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.289 [info] managed_skills.removed {"skill_id":"cursor","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.290 [info] managed_skills.removed {"skill_id":"cursor-blame","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.290 [info] managed_skills.removed {"skill_id":"cursor-sdk","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.291 [info] managed_skills.removed {"skill_id":"goal","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.291 [info] managed_skills.removed {"skill_id":"onboard","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.292 [info] managed_skills.removed {"skill_id":"cursor-review-links","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}
+2026-06-17 21:15:36.293 [info] managed_skills.removed {"skill_id":"social-sharing-copy","reason":"enabled_false","server_enabled":false,"had_manifest_entry":false,"last_synced_ms_ago":null}

@@ -1,0 +1,25 @@
+2026-06-15 20:29:35.386 [info] [McpProcess] starting utility process entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain restartCount=0 coldStartTimeoutMs=10000 loggerCount=2
+2026-06-15 20:29:35.389 [info] [McpProcess] utility process start returned true
+2026-06-15 20:29:35.398 [info] [McpProcess] spawned utility process pid=3151
+2026-06-15 20:29:38.864 [info] [McpProcess startup] phase=entrypoint_loaded elapsedMs=0
+2026-06-15 20:29:38.864 [info] [McpProcess startup] phase=config_wait_started elapsedMs=0
+2026-06-15 20:29:38.865 [info] [McpProcess startup] phase=config_received elapsedMs=1 data={"hasConfig":true}
+2026-06-15 20:29:38.865 [info] [McpProcess startup] phase=main_entered elapsedMs=1 data={"restartCount":0,"coldStartTimeoutMs":10000,"loggerCount":2,"profileCount":1,"logLevel":3}
+2026-06-15 20:29:38.866 [info] [McpProcess startup] phase=before_ipc_ready elapsedMs=2
+2026-06-15 20:29:38.866 [info] [McpProcess] received lifecycle signal ipcReady; entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain waitingFor=ipcReady lastPhase=before_ipc_ready lastMessage=<none> lastPhaseElapsedMs=2 spawnPid=3151 startReturned=true crashEventReceived=false restartCount=0 coldStartTimeoutMs=10000 elapsedMs=3481
+2026-06-15 20:29:38.866 [info] [McpProcess startup] phase=after_ipc_ready elapsedMs=2
+2026-06-15 20:29:38.866 [info] [McpProcess startup] phase=init_services_start elapsedMs=2
+2026-06-15 20:29:38.868 [info] [McpProcess startup] phase=init_services_end elapsedMs=4
+2026-06-15 20:29:38.868 [info] [McpProcess startup] phase=init_channels_start elapsedMs=4
+2026-06-15 20:29:38.870 [info] [McpProcess startup] phase=init_channels_end elapsedMs=6
+2026-06-15 20:29:38.870 [info] [McpProcess startup] phase=before_init_done elapsedMs=6
+2026-06-15 20:29:38.870 [info] [McpProcess] received lifecycle signal initDone; entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain waitingFor=initDone lastPhase=before_init_done lastMessage=<none> lastPhaseElapsedMs=6 spawnPid=3151 startReturned=true crashEventReceived=false restartCount=0 coldStartTimeoutMs=10000 elapsedMs=3485
+2026-06-15 20:29:38.870 [info] [McpProcess startup] phase=after_init_done elapsedMs=6
+2026-06-15 22:31:42.345 [info] [McpProcess stdout]  INFO [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 22:31:42.345 [info] [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 22:31:42.345 [info] [McpProcess stdout]  INFO [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 22:31:42.346 [info] [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 23:48:14.678 [info] [McpProcess stdout]  INFO [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 23:48:14.685 [info] [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 23:48:14.685 [info] [McpProcess stdout]  INFO [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false
+2026-06-15 23:48:14.685 [info] [McpProcess] Network connectivity changed online=true source=power_monitor_resume syntheticTransition=false

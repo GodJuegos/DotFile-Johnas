@@ -1,0 +1,8 @@
+2026-06-14 15:02:49.605 [info] Constructor: scheduling initial write
+2026-06-14 15:02:49.605 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-06-14 15:02:51.225 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-14 15:02:51.325 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-06-14 15:09:39.551 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-14 15:09:39.654 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-06-14 15:09:40.050 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-14 15:09:40.152 [info] fetchAndWrite: lease returned 0 tools across 0 clients

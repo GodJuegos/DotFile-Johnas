@@ -1,0 +1,22 @@
+2026-06-17 20:15:32.468 [info] Constructor: scheduling initial write
+2026-06-17 20:15:33.481 [info] fetchAndWrite: lease returned 0 tools across 0 clients
+2026-06-17 20:15:33.538 [info] Lease change event received {"reason":"cursor_mcp_lease_providers"}
+2026-06-17 20:15:33.541 [info] Lease change event received {"serverIdentifiers":["cursor-app-control","cursor-ide-browser"],"reason":"cursor_mcp_lease_server_status"}
+2026-06-17 20:15:33.542 [info] Lease change event received {"serverIdentifiers":["cursor-app-control"],"reason":"cursor_mcp_lease_snapshot_store"}
+2026-06-17 20:15:33.542 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-17 20:15:33.555 [info] Lease change event received {"serverIdentifiers":["cursor-ide-browser"],"reason":"cursor_mcp_lease_snapshot_store"}
+2026-06-17 20:15:33.560 [info] Incremental write: 0 changed, 2 removed, 0 unchanged {"changedServerCount":0,"changedServers":[],"removedServerCount":2,"removedServerSanitizedIds":["cursor-app-control","cursor-ide-browser"],"unchangedServerCount":0,"totalServerCount":0,"mcpFsStructuredLogOptIn":true}
+2026-06-17 20:15:33.656 [info] fetchAndWrite: lease returned 5 tools across 1 clients
+2026-06-17 20:15:33.657 [info] Incremental write: 1 changed, 0 removed, 0 unchanged {"changedServerCount":1,"changedServers":[{"serverIdentifier":"cursor-app-control","sanitizedId":"cursor-app-control","toolCount":5}],"removedServerCount":0,"removedServerSanitizedIds":[],"unchangedServerCount":0,"totalServerCount":1,"mcpFsStructuredLogOptIn":true}
+2026-06-17 20:15:33.710 [info] Lease change event received {"reason":"cursor_mcp_lease_providers"}
+2026-06-17 20:15:33.716 [info] Lease change event received {"serverIdentifiers":["cursor-app-control"],"reason":"cursor_mcp_lease_snapshot_store"}
+2026-06-17 20:15:33.720 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-17 20:15:33.822 [info] fetchAndWrite: lease returned 5 tools across 1 clients
+2026-06-17 20:15:33.823 [info] Server "cursor-app-control" fingerprint changed: tools=5, status=connected
+2026-06-17 20:15:33.823 [info] Incremental write: 1 changed, 0 removed, 0 unchanged {"changedServerCount":1,"changedServers":[{"serverIdentifier":"cursor-app-control","sanitizedId":"cursor-app-control","toolCount":5}],"removedServerCount":0,"removedServerSanitizedIds":[],"unchangedServerCount":0,"totalServerCount":1,"mcpFsStructuredLogOptIn":true}
+2026-06-17 20:15:33.982 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-17 20:15:34.083 [info] fetchAndWrite: lease returned 21 tools across 2 clients
+2026-06-17 20:15:34.084 [info] Incremental write: 1 changed, 0 removed, 1 unchanged {"changedServerCount":1,"changedServers":[{"serverIdentifier":"cursor-ide-browser","sanitizedId":"cursor-ide-browser","toolCount":16}],"removedServerCount":0,"removedServerSanitizedIds":[],"unchangedServerCount":1,"totalServerCount":2,"mcpFsStructuredLogOptIn":true}
+2026-06-17 20:15:34.832 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-17 20:15:34.838 [info] Lease change event received {"reason":"cursor_mcp_lease_settings"}
+2026-06-17 20:15:34.942 [info] fetchAndWrite: lease returned 21 tools across 2 clients

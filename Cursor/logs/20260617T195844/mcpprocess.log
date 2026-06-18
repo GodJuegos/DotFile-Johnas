@@ -1,0 +1,17 @@
+2026-06-17 19:58:50.934 [info] [McpProcess] starting utility process entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain restartCount=0 coldStartTimeoutMs=10000 loggerCount=2
+2026-06-17 19:58:50.937 [info] [McpProcess] utility process start returned true
+2026-06-17 19:58:51.006 [info] [McpProcess] spawned utility process pid=1790
+2026-06-17 19:58:54.839 [info] [McpProcess startup] phase=entrypoint_loaded elapsedMs=0
+2026-06-17 19:58:54.840 [info] [McpProcess startup] phase=config_wait_started elapsedMs=1
+2026-06-17 19:58:54.840 [info] [McpProcess startup] phase=config_received elapsedMs=2 data={"hasConfig":true}
+2026-06-17 19:58:54.840 [info] [McpProcess startup] phase=main_entered elapsedMs=2 data={"restartCount":0,"coldStartTimeoutMs":10000,"loggerCount":2,"profileCount":1,"logLevel":3}
+2026-06-17 19:58:54.841 [info] [McpProcess startup] phase=before_ipc_ready elapsedMs=2
+2026-06-17 19:58:54.841 [info] [McpProcess] received lifecycle signal ipcReady; entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain waitingFor=ipcReady lastPhase=before_ipc_ready lastMessage=<none> lastPhaseElapsedMs=2 spawnPid=1790 startReturned=true crashEventReceived=false restartCount=0 coldStartTimeoutMs=10000 elapsedMs=3907
+2026-06-17 19:58:54.842 [info] [McpProcess startup] phase=after_ipc_ready elapsedMs=2
+2026-06-17 19:58:54.842 [info] [McpProcess startup] phase=init_services_start elapsedMs=3
+2026-06-17 19:58:54.844 [info] [McpProcess startup] phase=init_services_end elapsedMs=5
+2026-06-17 19:58:54.844 [info] [McpProcess startup] phase=init_channels_start elapsedMs=6
+2026-06-17 19:58:54.847 [info] [McpProcess startup] phase=init_channels_end elapsedMs=8
+2026-06-17 19:58:54.847 [info] [McpProcess startup] phase=before_init_done elapsedMs=9
+2026-06-17 19:58:54.847 [info] [McpProcess] received lifecycle signal initDone; entryPoint=vs/code/electron-utility/mcpProcess/mcpProcessMain waitingFor=initDone lastPhase=before_init_done lastMessage=<none> lastPhaseElapsedMs=9 spawnPid=1790 startReturned=true crashEventReceived=false restartCount=0 coldStartTimeoutMs=10000 elapsedMs=3913
+2026-06-17 19:58:54.847 [info] [McpProcess startup] phase=after_init_done elapsedMs=9

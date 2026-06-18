@@ -1,0 +1,51 @@
+2026-06-14 15:11:06.671 [info] [CursorExtensionIsolationService] Extension isolation gate is enabled, effective isolation is enabled
+2026-06-14 15:11:06.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-06-14 15:11:06.720 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:06.749 [info] [PushRequestContextService] push request context is enabled (killswitchActive=false, instantGrepEnabled=true, indexingGrepEnabled=true)
+2026-06-14 15:11:07.150 [info] Started local extension host with pid 22423.
+2026-06-14 15:11:07.561 [info] [WorktreeManager] Using worktrees root /home/johnas/.cursor/worktrees
+2026-06-14 15:11:07.633 [info] Placing extension(s) anysphere.cursor-retrieval on a separate extension host.
+2026-06-14 15:11:07.633 [info] Placing extension(s) anysphere.cursor-always-local, anysphere.cursor-resolver, anysphere.cursor-socket on a separate extension host.
+2026-06-14 15:11:07.633 [info] Placing extension(s) anysphere.cursor-agent-exec, anysphere.cursor-agent-worker, anysphere.cursor-checkout on a separate extension host.
+2026-06-14 15:11:07.788 [info] Started local extension host with pid 22456.
+2026-06-14 15:11:07.789 [info] Started local extension host with pid 22457.
+2026-06-14 15:11:07.789 [info] Started local extension host with pid 22458.
+2026-06-14 15:11:07.802 [info] [WorktreeCleanupCron] Registering cleanup task with interval of 6 hours
+2026-06-14 15:11:07.802 [info] [WorktreeCleanupCron] Cleanup task registered with interval of 6 hours (21600000ms)
+2026-06-14 15:11:07.999 [info] [McpProcessAfterRestoredContribution] latched shared-process MCP routing enabled for this session after OAuth migration
+2026-06-14 15:11:08.451 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:08.452 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.115 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.115 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.166 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.166 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.204 [info] [MainThreadShellExec] $updateShellExecCapabilities: hostKind=1, expectedHost=1, isRemote=false, sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.204 [info] [MainThreadShellExec] AppArmor suggestion skipped: sandboxSupported=true, linuxKernelVersion=7.0.12-arch1-1
+2026-06-14 15:11:09.472 [info] [ShellExec] Created session a4a18ad2-dca2-4171-8f55-e192f4a54d3c on LocalProcess host
+2026-06-14 15:11:09.473 [error] [MainThreadShellExec.execute] Session not found: a4a18ad2-dca2-4171-8f55-e192f4a54d3c
+2026-06-14 15:11:09.477 [info] [MainThreadCursorExplorerProviderService] Explorer provider registered
+2026-06-14 15:11:09.568 [info] [Debug] Registered command palette action: debug.classifyRecentConversations
+2026-06-14 15:11:09.568 [info] [Debug] Registered command palette action: debug.getApplicationProperty
+2026-06-14 15:11:09.568 [info] [Debug] Registered command palette action: debug.setApplicationProperty
+2026-06-14 15:11:09.568 [info] [Debug] Registered command palette action: debug.logComposer
+2026-06-14 15:11:09.568 [info] [Debug] Registered command palette action: debug.getContextKeyValue
+2026-06-14 15:11:09.569 [info] [Debug] Registered command palette action: debug.testLinearIssues
+2026-06-14 15:11:09.582 [info] OpenInBrowserWatcher: Initializing terminal log watcher
+2026-06-14 15:11:09.609 [info] [GC Trace Polling] Disabled by config
+2026-06-14 15:11:09.689 [error] [Extension Host:retrieval] (node:22456) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-06-14 15:11:09.820 [info] [PushRequestContextService] Updated git workspace caches (0 entries)
+2026-06-14 15:11:09.822 [info] [PushRequestContextService] Updated sandbox network file entries (0 entries)
+2026-06-14 15:11:09.834 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:10.053 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:10.325 [info] [CursorPluginsStartup] Claude marketplace import (boot): discovered=0, registered=0, failed=0
+2026-06-14 15:11:11.002 [warning] Missing property "cppConfig" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2026-06-14 15:11:11.778 [info] [perf] Render performance baseline is 19ms

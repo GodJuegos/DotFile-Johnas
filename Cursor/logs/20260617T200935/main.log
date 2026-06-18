@@ -1,0 +1,19 @@
+2026-06-17 20:09:35.811 [info] [RendererPing] enabled (intervalMs=5000, blockThresholdMs=15000, stacks=true)
+2026-06-17 20:09:35.813 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/3.7.36/54eb1c61969649924abef653a450467116a58c4b01645c6017c1c5bba1cbd598/stable
+2026-06-17 20:09:35.813 [info] update#setState idle
+2026-06-17 20:09:39.191 [info] [LocalAgentStorage] Scanned 2 recent databases (skipped 0 old), found 0 agent headers, deduped to 0
+2026-06-17 20:09:51.515 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-06-17 20:10:05.222 [info] update#setState checking for updates
+2026-06-17 20:10:05.352 [info] update#setState available for download
+2026-06-17 20:11:22.800 [info] [PowerMainService] Started wakelock id=0 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:11:22.871 [info] [PowerMainService] Disabled background throttling id=1 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:11:27.691 [info] [PowerMainService] Stopping wakelock id=0 owner=window:1 reason="agent-loop" heldForMs=4891
+2026-06-17 20:11:27.695 [info] [PowerMainService] Stopped background throttling disable id=1 owner=window:1 reason="agent-loop" heldForMs=4824
+2026-06-17 20:11:38.133 [info] [PowerMainService] Started wakelock id=1 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-06-17 20:11:38.142 [info] [PowerMainService] Disabled background throttling id=2 owner=window:1 reason="agent-loop-resumed" activeCount=1
+2026-06-17 20:11:53.576 [info] [PowerMainService] Stopping wakelock id=1 owner=window:1 reason="agent-loop-resumed" heldForMs=15443
+2026-06-17 20:11:53.583 [info] [PowerMainService] Stopped background throttling disable id=2 owner=window:1 reason="agent-loop-resumed" heldForMs=15441
+2026-06-17 20:12:30.107 [info] [PowerMainService] Started wakelock id=2 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:12:30.149 [info] [PowerMainService] Disabled background throttling id=3 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:12:33.571 [info] [PowerMainService] Stopping wakelock id=2 owner=window:1 reason="agent-loop" heldForMs=3464
+2026-06-17 20:12:33.573 [info] [PowerMainService] Stopped background throttling disable id=3 owner=window:1 reason="agent-loop" heldForMs=3425

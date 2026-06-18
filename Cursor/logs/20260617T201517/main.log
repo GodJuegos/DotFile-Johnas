@@ -1,0 +1,11 @@
+2026-06-17 20:15:19.072 [info] [RendererPing] enabled (intervalMs=5000, blockThresholdMs=15000, stacks=true)
+2026-06-17 20:15:19.074 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/3.7.36/54eb1c61969649924abef653a450467116a58c4b01645c6017c1c5bba1cbd598/stable
+2026-06-17 20:15:19.074 [info] update#setState idle
+2026-06-17 20:15:25.106 [info] [LocalAgentStorage] Scanned 2 recent databases (skipped 0 old), found 1 agent headers, deduped to 1
+2026-06-17 20:15:36.869 [info] [CursorProclistService] Config enabled feature (subsample every 10s)
+2026-06-17 20:15:46.363 [info] update#setState checking for updates
+2026-06-17 20:15:46.492 [info] update#setState available for download
+2026-06-17 20:16:13.538 [info] [PowerMainService] Started wakelock id=0 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:16:13.583 [info] [PowerMainService] Disabled background throttling id=1 owner=window:1 reason="agent-loop" activeCount=1
+2026-06-17 20:16:46.914 [info] [PowerMainService] Stopping wakelock id=0 owner=window:1 reason="agent-loop" heldForMs=33376
+2026-06-17 20:16:46.916 [info] [PowerMainService] Stopped background throttling disable id=1 owner=window:1 reason="agent-loop" heldForMs=33333

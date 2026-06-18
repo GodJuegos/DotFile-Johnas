@@ -1,0 +1,10 @@
+2026-06-14 15:10:30.864 [info] 	crepectlPath: /usr/share/cursor/resources/app/resources/helpers/crepectl
+2026-06-14 15:10:30.864 [info] Initializing GrepClient
+2026-06-14 15:10:30.864 [error] Failed to initialize GrepClient cannot index repository without Git
+2026-06-14 15:10:30.864 [info] using external crepectl binary at '/usr/share/cursor/resources/app/resources/helpers/crepectl'
+2026-06-14 15:10:30.864 [info] FileSystemWatcherService [workspace]: Creating filesystem watcher...
+2026-06-14 15:10:30.864 [info] FileSystemWatcherService [workspace]: Filesystem watcher created
+2026-06-14 15:10:30.864 [info] FileSystemWatcherService [workspace]: Registered client (total: 1)
+2026-06-14 15:10:31.363 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Creating filesystem watcher...
+2026-06-14 15:10:31.363 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Filesystem watcher created
+2026-06-14 15:10:31.363 [info] FileSystemWatcherService [external:/home/johnas/.cursor:**]: Registered client (total: 1)

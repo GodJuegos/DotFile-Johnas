@@ -1,0 +1,56 @@
+2026-06-17 20:09:41.837 [error] Error getting repo info: Failed to execute git
+2026-06-17 20:09:41.837 [error] Error: Failed to execute git
+	at t.Git._execOld (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:24851)
+	at async t.Git.exec (/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:23194)
+	at async _sn.executeGitCommandStable (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:7021500)
+	at async _sn.getRepoInfo (/usr/share/cursor/resources/app/extensions/cursor-retrieval/dist/main.js:2:6987855)
+2026-06-17 20:09:42.486 [info] Using existing keys for an index
+2026-06-17 20:09:42.486 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.487 [info] Using existing keys for an index
+2026-06-17 20:09:42.487 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.487 [info] Using existing keys for an index
+2026-06-17 20:09:42.487 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.514 [error] Error getting repo info: Failed to execute git
+2026-06-17 20:09:42.521 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2026-06-17 20:09:42.521 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2026-06-17 20:09:42.521 [info] Using existing keys for an index
+2026-06-17 20:09:42.521 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.524 [warning] Failed to get symbolic ref: Failed to execute git
+2026-06-17 20:09:42.528 [info] Starting RepoIndexWatcher for repo: fcd58411-0bf8-48dc-9532-587a74e89634, owner: google-oauth2|user_01KV3RHGKAHB99SVVD160DBRFW
+2026-06-17 20:09:42.528 [info] Setting global status from status tracker: synced
+2026-06-17 20:09:42.528 [info] Doing a startup handshake.
+2026-06-17 20:09:42.529 [info] multiCodebaseIndexingJob dispose
+2026-06-17 20:09:42.529 [info] Aborting indexing job.
+2026-06-17 20:09:42.529 [info] Using existing keys for an index
+2026-06-17 20:09:42.529 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.530 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/johnas/.config/hypr/.git/HEAD')
+2026-06-17 20:09:42.541 [info] Using existing keys for an index
+2026-06-17 20:09:42.541 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2026-06-17 20:09:42.542 [info] Starting RepoIndexWatcher for repo: fcd58411-0bf8-48dc-9532-587a74e89634, owner: google-oauth2|user_01KV3RHGKAHB99SVVD160DBRFW
+2026-06-17 20:09:42.542 [info] Setting global status from status tracker: synced
+2026-06-17 20:09:42.542 [info] Doing a startup handshake.
+2026-06-17 20:09:42.606 [warning] Failed to get branches from remote: Failed to execute git
+2026-06-17 20:09:42.616 [warning] Failed to get default branch from git config: Failed to execute git
+2026-06-17 20:09:43.363 [info] Indexing job successfully done or aborted.
+2026-06-17 20:09:43.423 [info] Finished computing merkle tree in 5.99527500000022 ms.
+2026-06-17 20:09:43.423 [info] Doing the initial handshake with hash: 0ad6ed136e37e20c9ac31daff3f1e7230f44359afc2304c38b469723d3bab731
+2026-06-17 20:09:43.424 [info] Computed simhash vector of length: 256
+2026-06-17 20:09:43.424 [info] Path key hash: 59f4ed49b9d28838bc926d4c4246c5922cfb281e9c30e546d21288b3f56572ff
+2026-06-17 20:09:43.429 [info] Handshake start
+2026-06-17 20:09:43.852 [info] Handshake timing: 425.04069200000004, response: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"fa47a9a5-da9d-4772-882a-1c0d679c1253","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-06-17 20:09:43.852 [info] Handshake result: {"status":"STATUS_SUCCESS","codebases":[{"codebaseId":"fa47a9a5-da9d-4772-882a-1c0d679c1253","status":"STATUS_OUT_OF_SYNC","copyTaskHandle":""}]}
+2026-06-17 20:09:43.852 [info] Starting fast remote sync.
+2026-06-17 20:09:43.852 [info] Total num embeddable files: 1
+2026-06-17 20:09:43.853 [info] Root hash: 0ad6ed136e37e20c9ac31daff3f1e7230f44359afc2304c38b469723d3bab731
+2026-06-17 20:09:43.853 [info] In the out of sync case.
+2026-06-17 20:09:43.854 [info] Waiting on semaphore to be released 1
+2026-06-17 20:09:44.054 [info] setting numJobsToGo to 1
+2026-06-17 20:09:44.054 [info] [startSync]: numJobs: 1
+2026-06-17 20:09:44.055 [info] Uploading 1 files.
+2026-06-17 20:09:44.055 [info] Total number of files to embed: 1
+2026-06-17 20:09:44.055 [info] Not aborted
+2026-06-17 20:09:44.055 [info] Starting while loop.
+2026-06-17 20:09:45.545 [info] Completed job successfully: fa47a9a5-da9d-4772-882a-1c0d679c1253 ./hyprland.lua
+2026-06-17 20:09:45.675 [info] Finishing sync (hasUpdates: true, isErr: false)
+2026-06-17 20:09:45.975 [info] Finished indexing repository.
+2026-06-17 20:09:45.975 [info] Indexing job successfully done or aborted.

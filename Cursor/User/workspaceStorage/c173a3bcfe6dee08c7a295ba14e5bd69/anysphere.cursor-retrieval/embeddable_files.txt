@@ -1,0 +1,4 @@
+config/nvidiaconf.lua
+config/monitors.lua
+config/keyboard.lua
+hyprland.lua

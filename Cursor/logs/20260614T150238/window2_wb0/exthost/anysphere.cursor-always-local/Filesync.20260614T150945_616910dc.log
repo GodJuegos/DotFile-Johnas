@@ -1,0 +1,18 @@
+2026-06-14 15:09:47.414 [error] Failed to check if file sync is enabled for user {}
+2026-06-14 15:09:47.414 [error] Failed to fetch fsConfig File sync is disabled
+2026-06-14 15:09:47.414 [error] Failed to fetch fsConfig File sync is disabled
+2026-06-14 15:09:47.663 [info] [registerEventListeners] Registering event listeners
+2026-06-14 15:09:48.822 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-14 15:09:48.855 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-14 15:09:49.354 [info] Fetched fsConfig in 498.4717359999995ms
+2026-06-14 15:09:49.354 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-14 15:09:49.354 [info] File sync enabled status: false
+2026-06-14 15:09:49.354 [info] Fetched fsConfig in 532.1523799999995ms
+2026-06-14 15:09:49.354 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2026-06-14 15:09:49.354 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-14 15:09:49.354 [error] Failed to fetch fsConfig File sync is disabled
+2026-06-14 15:09:49.354 [error] Failed to fetch fsConfig File sync is disabled
+2026-06-14 15:09:49.354 [info] File sync enabled status: false
+2026-06-14 15:09:50.504 [info] [ENABLED STATUS] Filesync enabled from server.
+2026-06-14 15:09:50.504 [error] Failed to fetch fsConfig File sync is disabled
+2026-06-14 15:09:50.504 [error] Failed to fetch fsConfig File sync is disabled
