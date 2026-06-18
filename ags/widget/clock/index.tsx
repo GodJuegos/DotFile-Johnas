@@ -3,7 +3,7 @@ import GLib from "gi://GLib"
 import Gtk from "gi://Gtk"
 import { Separator } from "../../components/Separator"
 
-export function Clock({ dateFormat = "%a, %b %e", timeFormat = "%-I:%M %p" }) {
+export function Clock({ dateFormat = "%a, %b %e", timeFormat = "%-I:%M:%S %p" }) {
   const time = createPoll("", 1000, () => {
     return GLib.DateTime.new_now_local().format(timeFormat)!
   })

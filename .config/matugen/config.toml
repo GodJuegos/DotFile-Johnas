@@ -1,0 +1,4 @@
+[config]
+[templates.ags]
+input_path = "/home/gamer/.config/matugen/_colors_template.scss"
+output_path = "/home/gamer/.config/ags/_colors.scss"

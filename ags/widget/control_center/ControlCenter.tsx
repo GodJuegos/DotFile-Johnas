@@ -3,6 +3,7 @@ import GLib from "gi://GLib"
 import Gio from "gi://Gio"
 import { NotificationHistoryView } from "../notification/NotificationHistoryView"
 import { ClipboardView } from "./ClipboardView"
+import { triggerChange } from "../WallpaperSlideshow"
 
 const windows: Record<string, Gtk.Window> = {}
 const airplaneIcons: Record<string, Gtk.Image> = {}
@@ -17,7 +18,7 @@ export default function ControlCenter(gdkmonitor: Gdk.Monitor) {
         ? realName 
         : loginName
 
-    const userImagePath = `${home}/.config/ags/yuu/assets/user.png`
+    const userImagePath = `${home}/.config/ags/assets/user.png`
     const imageExists = Gio.File.new_for_path(userImagePath).query_exists(null)
 
     const getUptimeStr = () => {
@@ -145,7 +146,9 @@ export default function ControlCenter(gdkmonitor: Gdk.Monitor) {
     }))
 
     actionsBox.append(createSplitBtn("shot", "camera-photo-symbolic", "Foto", () => runClick("hyprshot -m region", true)))
-    actionsBox.append(createSplitBtn("wallpaper", "preferences-desktop-wallpaper-symbolic", "Fondo", () => runClick(`${home}/.config/FondosApp/FondosApp`, true)))
+    actionsBox.append(createSplitBtn("wallpaper", "preferences-desktop-wallpaper-symbolic", "Fondo", () => {
+        runClick(`${home}/.config/FondosApp/FondosApp`, true)
+    }))
 
     const actionsPage = new Gtk.Box({ orientation: Gtk.Orientation.VERTICAL, spacing: 10 })
     actionsPage.append(actionsBox)

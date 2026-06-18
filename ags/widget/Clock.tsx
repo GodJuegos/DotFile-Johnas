@@ -4,7 +4,7 @@ import { Separator } from "../components/Separator"
 import Gtk from "gi://Gtk"
 import { CenterIsland } from "./CenterIsland"
 
-export function Clock({ dateFormat = "%a %b %e", timeFormat = "%-I:%M %p" }) {
+export function Clock({ dateFormat = "%a %b %e", timeFormat = "%-I:%M:%S %p" }) {
   const time = createPoll("", 1000, () => {
     return GLib.DateTime.new_now_local().format(timeFormat)!
   })

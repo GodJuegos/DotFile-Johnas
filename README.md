@@ -175,13 +175,21 @@ sudo pacman -S meson vala glib2-devel
 # Compilador SCSS (necesario para estilos de AGS)
 sudo pacman -S dart-sass
 
-# Bindings necesarios para AGS (workspaces, audio, etc.)
-yay -S libastal-hyprland-git libastal-wireplumber-git
+# Bindings necesarios para AGS (workspaces, audio, mpris, notificaciones, tray)
+yay -S libastal-hyprland-git libastal-wireplumber-git libastal-mpris-git libastal-notifd-git libastal-tray-git
+
+# Dependencias adicionales para compilar bindings
+yay -S quarrel-git appmenu-glib-translator-git
 ```
 
 **Nota:** AGS requiere configuración en `~/.config/ags/`. Los bindings de Astal permiten:
 - `libastal-hyprland-git`: Control de workspaces y eventos de Hyprland
 - `libastal-wireplumber-git`: Control de audio/volumen
+- `libastal-mpris-git`: Control de reproductores multimedia (MPRIS)
+- `libastal-notifd-git`: Sistema de notificaciones
+- `libastal-tray-git`: System tray (bandeja del sistema)
+- `quarrel-git`: Dependencia para libastal-mpris
+- `appmenu-glib-translator-git`: Dependencia para libastal-tray
 - `dart-sass`: Compilación de estilos SCSS
 - `meson`, `vala`, `glib2-devel`: Dependencias para compilar los bindings desde AUR
 

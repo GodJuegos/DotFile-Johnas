@@ -3,8 +3,8 @@ import Gtk from "gi://Gtk?version=4.0"
 
 export function BongoCat() {
   const home = GLib.get_home_dir();
-  const up = `${home}/.config/ags/yuu/bongo_cat/a.png`;
-  const down = `${home}/.config/ags/yuu/bongo_cat/b.png`;
+  const up = `${home}/.config/ags/bongo_cat/a.png`;
+  const down = `${home}/.config/ags/bongo_cat/b.png`;
 
   // Creamos el widget con el constructor de clase para tener control total
   const img = new Gtk.Image({
