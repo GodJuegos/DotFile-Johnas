@@ -58,13 +58,110 @@ Uso: `debtap archivo.deb` para convertir a paquete de Arch.
 
 ## Instalación de Paquetes
 
-### Paquetes de Personalización
+### Terminal
+```bash
+# Emulador de terminal rápido con soporte GPU
+sudo pacman -S kitty
+```
+
+### Personalización GNOME
+```bash
+# Herramienta para ajustar configuraciones ocultas de GNOME/GTK
+sudo pacman -S gnome-tweaks
+```
+
+### Wallpaper
+```bash
+# Daemon de wallpapers para Wayland con transiciones animadas
+sudo pacman -S swww
+```
+
+### Info del Sistema
+```bash
+# Muestra información del sistema en la terminal (como neofetch pero más rápido)
+sudo pacman -S fastfetch
+```
+
+### Lanzador de Aplicaciones
+```bash
+# Menú/lanzador de apps compatible con Wayland
+sudo pacman -S rofi-wayland
+```
+
+### File Manager
+```bash
+# Explorador de archivos ligero (fork de Nautilus)
+sudo pacman -S nemo
+```
+
+### Traducciones
+```bash
+# Traducciones al español para apps de Cinnamon/Nemo
+sudo pacman -S cinnamon-translations
+```
+
+### Fuentes
+```bash
+# Fuente monoespaciada con iconos (Nerd Font) para terminal
+sudo pacman -S ttf-jetbrains-mono-nerd
+```
 
 ```bash
-sudo pacman -S kitty gnome-tweaks swww fastfetch rofi-wayland nemo \
-  cinnamon-translations ttf-jetbrains-mono-nerd zenity bc eog \
-  gnome-system-monitor evince xdg-desktop-portal-hyprland \
-  xdg-desktop-portal-gtk ffmpeg ttf-nunito nemo-fileroller
+# Fuente Nunito para interfaz del sistema
+sudo pacman -S ttf-nunito
+```
+
+### Diálogos
+```bash
+# Muestra cuadros de diálogo gráficos desde la terminal
+sudo pacman -S zenity
+```
+
+### Utilidades
+```bash
+# Calculadora de precisión para scripts y terminal
+sudo pacman -S bc
+```
+
+### Visor de Imágenes
+```bash
+# Visor de imágenes de GNOME, ligero y rápido
+sudo pacman -S eog
+```
+
+### Monitor del Sistema
+```bash
+# Monitor de recursos (CPU, RAM, procesos) con interfaz gráfica
+sudo pacman -S gnome-system-monitor
+```
+
+### Visor de PDF
+```bash
+# Visor de documentos PDF de GNOME
+sudo pacman -S evince
+```
+
+### Portales XDG (Wayland)
+```bash
+# Portal de escritorio específico para Hyprland (screenshots, clipboard, etc.)
+sudo pacman -S xdg-desktop-portal-hyprland
+```
+
+```bash
+# Portal GTK como fallback para apps que no soportan el portal de Hyprland
+sudo pacman -S xdg-desktop-portal-gtk
+```
+
+### Multimedia
+```bash
+# Suite completa de codecs y herramientas de audio/video
+sudo pacman -S ffmpeg
+```
+
+### Nemo Extensiones
+```bash
+# Integración de compresión/descompresión de archivos en Nemo
+sudo pacman -S nemo-fileroller
 ```
 
 ## Configuración
