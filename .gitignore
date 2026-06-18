@@ -1,0 +1,17 @@
+# Aplicaciones (no son dotfiles)
+.config/opencode/
+.config/vivaldi/
+.config/dconf/
+.config/nemo/
+.config/session/
+.config/yay/
+
+# Archivos de sistema KDE/Qt
+dolphinrc
+kiorc
+trashrc
+
+# Cache y temporales
+*.cache
+*.tmp
+*.swp
