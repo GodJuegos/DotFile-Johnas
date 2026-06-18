@@ -1,1 +1,0 @@
-2026-06-15 00:57:53.697 [warning] [StructuredLogProvider] submitLogs failed; structured logs may be unavailable for this session {"httpVersion":"2","fallbackAttempted":false,"errorMessage":"[unavailable] getaddrinfo EAI_AGAIN api2.cursor.sh"}

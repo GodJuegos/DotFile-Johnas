@@ -1,1 +1,0 @@
-2026-06-14 15:02:50.042 [error] Failed to set sticky bit on /tmp/johnas-cursor-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/johnas-cursor-zsh'

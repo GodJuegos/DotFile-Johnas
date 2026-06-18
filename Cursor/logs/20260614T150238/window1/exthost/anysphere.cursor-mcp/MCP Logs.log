@@ -1,7 +1,0 @@
-2026-06-14 15:02:52.222 [info] [mcp_oauth_migration] starting
-2026-06-14 15:02:52.277 [info] [mcp_oauth_migration] globalState phase completed
-2026-06-14 15:02:52.277 [info] [mcp_oauth_migration] secret phase completed
-2026-06-14 15:02:52.277 [info] [mcp_oauth_migration] attempt phase completed
-2026-06-14 15:02:52.279 [info] [mcp_oauth_migration] completed
-2026-06-14 15:03:46.116 [info] [MCP] Network connectivity changed
-2026-06-14 15:03:51.116 [info] [MCP] Network connectivity recovery completed

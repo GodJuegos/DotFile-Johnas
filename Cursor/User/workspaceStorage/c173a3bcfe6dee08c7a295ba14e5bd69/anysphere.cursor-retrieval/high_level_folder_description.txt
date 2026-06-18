@@ -1,1 +1,0 @@
-{"timestamp":1781222341022,"paths":["./hyprland.lua","./config/nvidiaconf.lua","./config/keyboard.lua","./config/monitors.lua"]}

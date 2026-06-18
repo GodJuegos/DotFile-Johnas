@@ -1,8 +1,0 @@
-[2026-06-18T00:15:33.709Z] [INFO] [general] Cursor Browser Automation extension activated
-[2026-06-18T00:15:33.709Z] [INFO] [general] Using Browser MCP provider
-[2026-06-18T00:15:33.709Z] [INFO] [general] Browser Automation MCP Provider initialized with direct execution
-[2026-06-18T00:15:33.710Z] [INFO] [general] injectBrowserUIScript called
-[2026-06-18T00:15:33.755Z] [ERROR] [general] Failed to inject browser UI script:: No browser view available
-[2026-06-18T00:15:33.755Z] [ERROR] [general] Error: No browser view available
-    at L7n (vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48187:96890)
-    at async vscode-file://vscode-app/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:48187:98668
