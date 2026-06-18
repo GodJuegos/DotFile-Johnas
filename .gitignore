@@ -1,0 +1,33 @@
+# Cursor cache and temp files
+Cursor/Cache/
+Cursor/CachedData/
+Cursor/IndexedDB/
+Cursor/Local Storage/
+Cursor/Session Storage/
+Cursor/logs/
+Cursor/WebStorage/
+Cursor/code.lock
+Cursor/DIPS*
+Cursor/DawnGraphiteCache/
+Cursor/DawnWebGPUCache/
+Cursor/GPUCache/
+Cursor/Network Persistent State
+Cursor/User/workspaceStorage/
+Cursor/User/globalStorage/state.vscdb*
+Cursor/User/globalStorage/storage.json
+Cursor/User/globalStorage/anysphere.cursor-retrieval/
+Cursor/snapshots/
+Cursor/User/History/
+Cursor/process-monitor/
+cursor/sentry/
+cursor/Crashpad/
+
+# Binary/session data
+dconf/
+pulse/
+session/
+yay/
+
+# OS files
+.DS_Store
+Thumbs.db
