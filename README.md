@@ -164,6 +164,27 @@ sudo pacman -S ffmpeg
 sudo pacman -S nemo-fileroller
 ```
 
+### Barra Superior (AGS - Aylur's GTK Shell)
+```bash
+# AGS v3 - Shell personalizable con TypeScript
+yay -S aylurs-gtk-shell
+
+# Dependencias de compilación para bindings de Astal
+sudo pacman -S meson vala glib2-devel
+
+# Compilador SCSS (necesario para estilos de AGS)
+sudo pacman -S dart-sass
+
+# Bindings necesarios para AGS (workspaces, audio, etc.)
+yay -S libastal-hyprland-git libastal-wireplumber-git
+```
+
+**Nota:** AGS requiere configuración en `~/.config/ags/`. Los bindings de Astal permiten:
+- `libastal-hyprland-git`: Control de workspaces y eventos de Hyprland
+- `libastal-wireplumber-git`: Control de audio/volumen
+- `dart-sass`: Compilación de estilos SCSS
+- `meson`, `vala`, `glib2-devel`: Dependencias para compilar los bindings desde AUR
+
 ## Configuración
 
 ### Hyprland
@@ -290,11 +311,17 @@ systemctl --user restart xdg-desktop-portal-gtk
 
 ```
 .config/
-└── hypr/
-    ├── hyprland.lua          # Configuración principal
-    └── config/
-        ├── monitors.lua      # Configuración de monitores
-        └── keyboard.lua      # Configuración del teclado
+├── hypr/
+│   ├── hyprland.lua          # Configuración principal
+│   └── config/
+│       ├── monitors.lua      # Configuración de monitores
+│       ├── keyboard.lua      # Configuración del teclado
+│       └── nvidiaconfig.lua  # Variables de entorno NVIDIA
+└── ags/
+    ├── app.ts                # Entry point de AGS
+    ├── widget/
+    │   └── Bar.tsx           # Barra superior (workspaces, reloj, volumen)
+    └── style.scss            # Estilos de la barra
 ```
 
 ## Actualizar Dotfiles
