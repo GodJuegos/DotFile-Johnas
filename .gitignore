@@ -1,3 +1,17 @@
+# Apps que no son dotfiles de personalizacion
+vivaldi/
+opencode/
+nemo/
+session/
+dconf/
+yay/
+go/
+
+# Archivos de sistema KDE/Qt
+dolphinrc
+kiorc
+trashrc
+
 # Cache y temporales
 *.cache
 *.tmp
